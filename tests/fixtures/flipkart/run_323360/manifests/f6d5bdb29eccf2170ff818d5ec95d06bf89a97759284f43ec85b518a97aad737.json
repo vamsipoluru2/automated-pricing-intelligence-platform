@@ -1,0 +1,128 @@
+{
+  "block": {
+    "decisive_signal": null,
+    "detail": "",
+    "is_blocked": false,
+    "score": 0.0,
+    "signals": [],
+    "threshold": 1.0
+  },
+  "browser": {
+    "browser_version": "unknown",
+    "driver_version": "1.1.0",
+    "engine": "chromium",
+    "headless": true,
+    "locale": "en-IN",
+    "proxy_used": false,
+    "timezone_id": "Asia/Kolkata",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "viewport_height": 900,
+    "viewport_width": 1440
+  },
+  "capture_id": "f6d5bdb29eccf2170ff818d5ec95d06bf89a97759284f43ec85b518a97aad737",
+  "captured_at": "2026-08-26T20:33:33.091+00:00",
+  "extra": {
+    "query": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop 16GB 512GB SSD RTX 3050",
+    "query_plan": {
+      "extracted_terms": {
+        "brand": "Lenovo",
+        "cpu_family": "AMD Ryzen 5",
+        "cpu_model": "7535HS",
+        "display_size_in": "15.6",
+        "gpu": "RTX 3050",
+        "product_type": "gaming laptop",
+        "ram": "16GB",
+        "refresh_hz": "144",
+        "series": "LOQ 15ARP10E",
+        "storage": "512GB SSD"
+      },
+      "fallback_queries": [
+        "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop 16GB 512GB SSD RTX 3050 15.6 inch",
+        "Lenovo LOQ 15ARP10E AMD Ryzen 5 RTX 3050",
+        "Lenovo LOQ 15ARP10E Gaming Laptop"
+      ],
+      "omitted_terms": [
+        {
+          "reason": "colour",
+          "term": "luna grey"
+        },
+        {
+          "reason": "bundled software",
+          "term": "MS Office Home 2024"
+        },
+        {
+          "reason": "operating system marketing",
+          "term": "Windows 11 Home"
+        },
+        {
+          "reason": "weight",
+          "term": "1.8 KG"
+        },
+        {
+          "reason": "panel adjective",
+          "term": "FHD"
+        },
+        {
+          "reason": "panel adjective",
+          "term": "IPS"
+        },
+        {
+          "reason": "generic word",
+          "term": "Display"
+        },
+        {
+          "reason": "generic word",
+          "term": "Graphics"
+        },
+        {
+          "reason": "unit word",
+          "term": "Inch"
+        }
+      ],
+      "primary_query": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop 16GB 512GB SSD RTX 3050",
+      "reference_model": "83S000FYIN",
+      "reference_sku": "323360",
+      "source_title": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG)",
+      "strategy": "product_name_v1"
+    },
+    "stage": "flipkart_search",
+    "ui_steps": [
+      "escape",
+      "fill",
+      "enter"
+    ]
+  },
+  "final_url": "https://www.flipkart.com/search?q=Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%2016GB%20512GB%20SSD%20RTX%203050&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off",
+  "html_length": 255631,
+  "html_sha256": "c11a19716481945cd724a24ab7b038f2e7b1b1023c8db0fd95b4ff6bcf397817",
+  "http_status": 200,
+  "input_sku": "323360",
+  "notes": [],
+  "page_kind": "SEARCH",
+  "page_title": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop 16GB 512GB SSD RTX 3050- Buy Products Online at Best Price in India - All Categories | Flipkart.com",
+  "platform": "flipkart",
+  "requested_url": "https://www.flipkart.com/ (UI search)",
+  "results_wait": {
+    "appeared": false,
+    "final_count": 0,
+    "initial_count": 0,
+    "performed": false,
+    "reached_networkidle": false,
+    "waited_ms": 0
+  },
+  "schema_version": "1.1.0",
+  "screenshot_path": null,
+  "scroll": {
+    "duration_ms": 0,
+    "expander_labels": [],
+    "expanders_clicked": 0,
+    "final_height_px": 0,
+    "height_changed": false,
+    "initial_height_px": 0,
+    "performed": false,
+    "reached_stable": false,
+    "scroll_count": 0
+  },
+  "status": "SUCCESS",
+  "visible_text": ""
+}

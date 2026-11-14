@@ -1,0 +1,1317 @@
+{
+  "block": {
+    "decisive_signal": null,
+    "detail": "no block signals detected",
+    "is_blocked": false,
+    "score": 0.0,
+    "signals": [],
+    "threshold": 1.0
+  },
+  "browser": {
+    "browser_version": "151.0.7922.34",
+    "driver_version": "1.1.0",
+    "engine": "chromium",
+    "headless": false,
+    "locale": "en-IN",
+    "proxy_used": false,
+    "timezone_id": "Asia/Kolkata",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "viewport_height": 900,
+    "viewport_width": 1440
+  },
+  "capture_id": "5df6c46a45c3c93d941a5c4c078cd7e5585613729b0e5844101c65ccd13c1f4b",
+  "captured_at": "2026-08-25T07:46:18.110+00:00",
+  "extra": {
+    "discovery": {
+      "candidates": [
+        {
+          "category": "",
+          "position": 1,
+          "sku_text": "323360",
+          "title": "Compare Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG) ₹1,13,990 ₹1,46,790 (Save ₹32,800) 22% Off Standard Delivery by Tomorrow",
+          "url": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360"
+        }
+      ],
+      "failure_reason": "",
+      "identification": {
+        "assessments": [
+          {
+            "candidate": {
+              "category": "",
+              "position": 1,
+              "sku_text": "323360",
+              "title": "Compare Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG) ₹1,13,990 ₹1,46,790 (Save ₹32,800) 22% Off Standard Delivery by Tomorrow",
+              "url": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360"
+            },
+            "decisive": true,
+            "evidence": [
+              {
+                "decisive": true,
+                "detail": "PDP url id '323360' == requested SKU '323360'",
+                "kind": "SKU_IN_PDP_URL"
+              },
+              {
+                "decisive": true,
+                "detail": "result card sku text '323360' == requested SKU '323360'",
+                "kind": "SKU_IN_TEXT"
+              }
+            ],
+            "rejected_as_accessory": false,
+            "rejection_detail": "",
+            "tier": 1
+          }
+        ],
+        "candidates_considered": 1,
+        "chosen": {
+          "category": "",
+          "position": 1,
+          "sku_text": "323360",
+          "title": "Compare Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG) ₹1,13,990 ₹1,46,790 (Save ₹32,800) 22% Off Standard Delivery by Tomorrow",
+          "url": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360"
+        },
+        "confidence": "CONFIDENT",
+        "model": "83S000FYIN",
+        "notes": [],
+        "reason": "single candidate at strongest tier SKU_EXACT: PDP url id '323360' == requested SKU '323360'; result card sku text '323360' == requested SKU '323360'",
+        "sku": "323360"
+      },
+      "ok": false,
+      "pdp_title": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG)",
+      "pdp_url": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360",
+      "pdp_verification": {
+        "has_pdp_content": true,
+        "identity_signal": true,
+        "model_present": true,
+        "not_accessory": true,
+        "sku_present_in_page": true,
+        "title_present": true,
+        "url_id": "323360",
+        "url_id_matches_sku": true,
+        "url_is_pdp": true
+      },
+      "pdp_verified": true,
+      "pincode_already_set": true,
+      "pincode_detected": "560087",
+      "pincode_requested": "560087",
+      "results_rendered": 1,
+      "search_input_selector": "input#searchV2",
+      "search_submitted_text": "323360",
+      "selected": {
+        "category": "",
+        "position": 1,
+        "sku_text": "323360",
+        "title": "Compare Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG) ₹1,13,990 ₹1,46,790 (Save ₹32,800) 22% Off Standard Delivery by Tomorrow",
+        "url": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360"
+      },
+      "steps": [
+        {
+          "data": {
+            "error": null,
+            "final_url": "https://www.croma.com/",
+            "http_status": 200
+          },
+          "detail": "http=200 final=https://www.croma.com/",
+          "name": "homepage_loaded",
+          "ok": true
+        },
+        {
+          "data": {
+            "reused": true
+          },
+          "detail": "already set to 560087; dialog not reopened",
+          "name": "pincode_handled",
+          "ok": true
+        },
+        {
+          "data": {
+            "selector": "input#searchV2",
+            "url_after_submit": "https://www.croma.com/searchB?q=323360%3Arelevance&text=323360"
+          },
+          "detail": "typed '323360' into 'input#searchV2' and pressed Enter",
+          "name": "search_via_ui",
+          "ok": true
+        },
+        {
+          "data": {
+            "results_wait": {
+              "appeared": true,
+              "final_count": 2,
+              "initial_count": 2,
+              "performed": true,
+              "reached_networkidle": false,
+              "waited_ms": 10781
+            },
+            "url": "https://www.croma.com/searchB?q=323360%3Arelevance&text=323360"
+          },
+          "detail": "1 product card(s) present in the rendered DOM",
+          "name": "results_rendered",
+          "ok": true
+        },
+        {
+          "data": {
+            "confidence": "CONFIDENT",
+            "considered": 1
+          },
+          "detail": "single candidate at strongest tier SKU_EXACT: PDP url id '323360' == requested SKU '323360'; result card sku text '323360' == requested SKU '323360'",
+          "name": "result_identified",
+          "ok": true
+        },
+        {
+          "data": {
+            "strategy": "anchor_click+follow_discovered_href",
+            "url_after": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360",
+            "url_before": "https://www.croma.com/searchB?q=323360%3Arelevance&text=323360"
+          },
+          "detail": "strategy=anchor_click+follow_discovered_href url 'https://www.croma.com/searchB?q=323360%3Arelevance&text=323360' -> 'https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360'",
+          "name": "product_opened",
+          "ok": true
+        },
+        {
+          "data": {
+            "source": "page.url"
+          },
+          "detail": "page.url = 'https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360'",
+          "name": "pdp_url_captured",
+          "ok": true
+        },
+        {
+          "data": {
+            "checks": {
+              "has_pdp_content": true,
+              "model_present": true,
+              "not_accessory": true,
+              "sku_present_in_page": true,
+              "title_present": true,
+              "url_id_matches_sku": true,
+              "url_is_pdp": true
+            },
+            "h1": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Off",
+            "title": "Buy Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS"
+          },
+          "detail": "url_is_pdp=True; url_id_matches_sku=True; sku_present_in_page=True; title_present=True; model_present=True; not_accessory=True; has_pdp_content=True",
+          "name": "pdp_verified",
+          "ok": true
+        }
+      ]
+    },
+    "network": [
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://edge.fullstory.com/s/settings/11EGJ5/v1/web"
+      },
+      {
+        "body_length": 1555,
+        "body_snippet": "{\"success\":\"Config fetched\",\"config\":{\"_id\":\"646daac343680a50726914ab\",\"urls\":[\"reqbin\",\"transaction\",\"orderConfirmation\",\"order-confirmation\",\"potential-order\"],\"bufferArrayLength\":0,\"bufferIntervalInSeconds\":5,\"bufferSizeInKb\":0,\"dataPublishEndpoint\":\"https://api.tatadigital.com/analytics-engine/events/v1\",\"sessionIdExpiresInS\":86400,\"redirectedFromTCPFlagExpiresInS\":86400,\"redisTtlInSeconds\":2592000,\"createdAt\":\"2023-05-11T08:21:54.108Z\",\"updatedAt\":\"2023-05-11T08:21:54.108Z\",\"__v\":0,\"customerHashValidityInS\":86400,\"keyToCheckLoginState\":[],\"eventToSendConfig\":[],\"recordAnalytics\":true,\"syncTrackingUrls\":[\"/paymentconfirmation\",\"/ocs/v1/order-confirmation\",\"/order/oms/v2/list/details-pwa\",\"/useraccount/allchannels/v1\",\"/floatingcart\",\"/attachProduct\",\"/detail\",\"/addition\",\"/deletion\",\"/inventory/oms/v2/tms/details-pwa/\",\"/inventory/oms/v2/details-pwa/\",\"/price\",\"/user/allchannels/v1\"],\"cartAndWishListConfig\":{\"detail?isGetCart\":{\"products\":[\"entries\"],\"type\":\"cart\",\"keysToCapture\":{\"price\":[\"product\",\"price\",\"value\"],\"productId\":[\"product\",\"code\"],\"productName\":[\"product\",\"name\"],\"quantity\":[\"quantity\"]}}},\"recordGtmEvents\":true,\"dataLayerArgumentEventsToRecord\":[],\"dataLayerObjectEventsToRecord\":[\"add_to_wishlist\",\"add_to_cart\",\"remove_from_cart\",\"begin_checkout\",\"purchase\",\"view_item\",\"add_payment_info\"],\"modifyHistoryOwnMethods\":true,\"recordWebVitals\":false,\"brand\":\"CROMA\",\"browserEventsToRecord\":[\"click\"],\"listenToPastDataLayerEvents\":true,\"recordJsDispatchedClicks\":false,\"clientId\":\"CROMA-WEB-APP\",\"recordNonNeuLed\":true}}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/config/v2"
+      },
+      {
+        "body_length": 1117,
+        "body_snippet": "{\"source\":{\"id\":\"3EXBaaISlYyCWiaO5RSjg0oXoCf\",\"name\":\"PWA Prod\",\"writeKey\":\"3EXBaeKCEEZnex5iqfnjiXbdbMp\",\"config\":{\"statsCollection\":{\"errors\":{\"enabled\":false},\"metrics\":{\"enabled\":false}}},\"enabled\":true,\"workspaceId\":\"3CWjaFZMP64Vm4Vr3Hp689jgMiQ\",\"destinations\":[{\"id\":\"3Hu0PPHgtjb8lWoj9VfPeMCWU2h\",\"name\":\"MoEngage_prod\",\"enabled\":true,\"config\":{\"apiId\":\"5B2MZV0NAKJC7WR17JOEOLZY\",\"region\":\"IND\",\"debug\":false,\"identityResolution\":false,\"blacklistedEvents\":[],\"whitelistedEvents\":[],\"eventFilteringOption\":\"disable\",\"consentManagement\":[],\"useObjectData\":false},\"destinationDefinitionId\":\"1j9dYVEplxUC5swbXkpK9fYT7u2\",\"destinationDefinition\":{\"name\":\"MOENGAGE\",\"displayName\":\"MoEngage\"},\"updatedAt\":\"2026-08-14T12:13:45.685Z\",\"shouldApplyDeviceModeTransformation\":true,\"propagateEventsUntransformedOnError\":false,\"version\":1}],\"updatedAt\":\"2026-08-07T11:16:49.460Z\",\"dataplanes\":{}},\"updatedAt\":\"2026-08-14T12:13:47.690Z\",\"consentManagementMetadata\":{\"providers\":[{\"provider\":\"oneTrust\",\"resolutionStrategy\":\"and\"},{\"provider\":\"ketch\",\"resolutionStrategy\":\"or\"},{\"provider\":\"iubenda\",\"resolutionStrategy\":\"or\"}]}}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.rudderstack.com/sourceConfig/?p=cdn&v=3.32.0&build=modern&writeKey=3EXBaeKCEEZnex5iqfnjiXbdbMp&lockIntegrationsVersion=true&lockPluginsVersion=true"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json;charset=UTF-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaretail.tt.omtrdc.net/rest/v1/delivery?client=cromaretail&sessionId=453409495b924692a837302bce0d331b&version=2.9.0"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=1&ae=g&auid=2031397288.1787643755&dt=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&en=page_view&dl=https%3A%2F%2Fwww.croma.com%2F&scrsrc=www.googletagmanager.com&rnd=1754459888.1787643925&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He68o0h2v889407033za200zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://ad.doubleclick.net/ccm/s/collect?auid=2031397288.1787643755&gtm=45He68o0h2v889407033za200zd889407033xea&fmt=8"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033&_p=1787643924452&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQC&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=17&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&_s=1&tag_"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://gumi.criteo.com/sid/json?origin=onetag&domain=croma.com&sn=ChromeSyncframe&so=undefined&topUrl=www.croma.com&bundle=EQnlnV9WSlBIV3BvOVQyMnNVdmt5WjklMkZUWWd5bXAybmwzVFNSMzc3NkhBNE1vY3QwcXdIJTJGR21xWkYlMkYxdjAzYVRNam5qJTJCT2NtbHNuaEg5JTJGcCUyRmZDU0JhWTZrVG5VelZTOXB2MkZ2akpGOTJpRmhNUXFybDR3N1RKRmFTUnlaTTglMkZsNEJhMzZSb0xBbWZCbGp1TE53Tkt6RzJ0QSUzRCUzRA"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/page"
+      },
+      {
+        "body_length": 3422,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=1463889708&cv=11&fst=1787643926785&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=14~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkMKEQjw-rTUBhDjzoD-9YWT468BEi4AalvnGYoTNdQbqKDKFRXZ4XvKPtYklS1iOpFM4Y032bfmXyinSZY2iJ71hBv68P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkorbm90LWV2ZW50LXNvdXJjZSwgdHJpZ2dlcjtuYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=Cgzr370tpqe-LYO-vi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaUIYhGachbNIuZHZTvxYDs4YljTnEWeuX8&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYVpcH9q2Jv9v-pOSgwvBi_47czijcgppQ8MF2XgDifzXFm4gjaeu5AaAqRV&pscrd=IhMIh7j8yaS7lgMVZNeEAB1ohA6lOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcnJTZVhBako5Wm0wSjFPMEwxVTVYUVBjQjFqc1ItVDkwekVDaWJwbVNlTHFCQzllVmZTSjh6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/609902077/?random=1463889708&cv=11&fst=1787643926785&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=14~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkMKEQjw-rTUBhDjzoD-9YWT468BEi4AalvnGYoTNdQbqKDKFRXZ4XvKPtYklS1iOpFM4Y032bfmXyinSZY2iJ71hBv68P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkorbm90LWV2ZW50LXNvdXJjZSwgdHJpZ2dlcjtuYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=Cgzr370tpqe-LYO-vi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaUIYhGachbNIuZHZTvxYDs4YljTnEWeuX8&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYVpcH9q2Jv9v-pOSgwvBi_47czijcgppQ8MF2XgDifzXFm4gjaeu5AaAqRV&pscrd=IhMIh7j8yaS7lgMVZNeEAB1ohA6lOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcnJTZVhBako5Wm0wSjFPMEwxVTVYUVBjQjFqc1ItVDkwekVDaWJwbVNlTHFCQzllVmZTSjh6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/609902077/?random=1787643926785&cv=11&fst=1787643926785&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://www.croma.com/_bm/get_params?type=web-jsto&v=rFGUjqYhZ287OBdXJGl6viTVC/FdP7H/r4EnvU1hvK0=&j=AAQAAAAG%2f%2f%2f%2f%2f9FieB7gm+sDCVvaLu6AA8q1WAYyxobEpjBZBwtZokQbOgI3Bw2I7v0cdFEk2McV9dTSd%2f5HKy35Rqaanlq0tuD%2fvzvyqFOs%2foxP"
+      },
+      {
+        "body_length": 3446,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=568175919&cv=11&fst=1787643927155&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=15~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGUnS-7fHVEB4uWcIAfAj6UlObJrCM3AboQ3zCmVckDaQS3X5huGVmkF9EJHw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjN4bECSiZ0cmlnZ2VyPW5hdmlnYXRpb24tc291cmNlO2V2ZW50LXNvdXJjZVoDCgEBYgMKAQM&cerd=ChTs370tp6e-Lf-vvi2Evr4ttdG-LQ&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaWajO9b5MWyw_soAGnIrss4k0B2V0nnW1w&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYW4fpR75rdooU8R75dQ3XYQxsHeze_st-j1hPYuokleF6QUZv5mxNkaAmIt&pscrd=IhMI-oWNyqS7lgMVX-WEAB0fKxOxOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkb2s4R09hLUFmV1VBVzk0clFXbDB0Y0Nqc0VUTHFQVzF3UmxoaElMbzNmQ3NxMlNBUmpnUkV6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/609902077/?random=568175919&cv=11&fst=1787643927155&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=15~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGUnS-7fHVEB4uWcIAfAj6UlObJrCM3AboQ3zCmVckDaQS3X5huGVmkF9EJHw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjN4bECSiZ0cmlnZ2VyPW5hdmlnYXRpb24tc291cmNlO2V2ZW50LXNvdXJjZVoDCgEBYgMKAQM&cerd=ChTs370tp6e-Lf-vvi2Evr4ttdG-LQ&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaWajO9b5MWyw_soAGnIrss4k0B2V0nnW1w&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYW4fpR75rdooU8R75dQ3XYQxsHeze_st-j1hPYuokleF6QUZv5mxNkaAmIt&pscrd=IhMI-oWNyqS7lgMVX-WEAB0fKxOxOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkb2s4R09hLUFmV1VBVzk0clFXbDB0Y0Nqc0VUTHFQVzF3UmxoaElMbzNmQ3NxMlNBUmpnUkV6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/609902077/?random=1787643927155&cv=11&fst=1787643927155&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://ad.doubleclick.net/activity;src=917807264;type=invmedia;cat=croma0;rcb=5;ord=9160763064130;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2z8889407033za20gzb889407033zd889407033xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~11889"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=1463889708&cv=11&fst=1787643926785&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://www.google.com/pagead/1p-conversion/609902077/?random=1463889708&cv=11&fst=1787643926785&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6hOZ"
+      },
+      {
+        "body_length": 3390,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=422045997&cv=11&fst=1787643927542&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=16~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGWxQzkKWLmBRojgSembLqDiDGyLklt5uWRcrljfyxQel5XLkd7UmmUWlzoHw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSh50cmlnZ2VyLCBub3QtbmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=ChDr370tp6e-LYOwvi2Evr4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaVCj6vVOjUHZ6akZ0ufotWtIcUiiczv8-8&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYXbPEvVTM2Vy46tIKze8-TDPbkdziHnDi2GmAyZNQBy2rtEvLRdnoIaAukr&pscrd=IhMIzrylyqS7lgMVxemEAB17vyzTOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcUttUVdSTU1Ia2NySGs2MmQ1a2tHNk1La2lGUGVoLXRjTEFPX0VTQmhCSVVQYkwtc1g3b0V6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/1006316414/?random=422045997&cv=11&fst=1787643927542&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=16~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGWxQzkKWLmBRojgSembLqDiDGyLklt5uWRcrljfyxQel5XLkd7UmmUWlzoHw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSh50cmlnZ2VyLCBub3QtbmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=ChDr370tp6e-LYOwvi2Evr4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaVCj6vVOjUHZ6akZ0ufotWtIcUiiczv8-8&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYXbPEvVTM2Vy46tIKze8-TDPbkdziHnDi2GmAyZNQBy2rtEvLRdnoIaAukr&pscrd=IhMIzrylyqS7lgMVxemEAB17vyzTOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcUttUVdSTU1Ia2NySGs2MmQ1a2tHNk1La2lGUGVoLXRjTEFPX0VTQmhCSVVQYkwtc1g3b0V6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/1006316414/?random=1787643927542&cv=11&fst=1787643927542&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZC"
+      },
+      {
+        "body_length": 3342,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=1311679336&cv=11&fst=1787643927564&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=17~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGbM5stzQWiR-aKLaStN32HqT-uoyXql_-OY1tb7h7NHUXpwTaLmZ-KyXdvD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSgd0cmlnZ2VyWgMKAQFiAwoBAw&cerd=ChTs370tpqe-LYOwvi2Evr4ttdG-LQ&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaUCWbemJ-piNAbr7jAYuqMrab9Xz7pc-gs&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYUWBkB71TwtHn1j9YWvvfGUVpZVNSYxNdIqBM5oaOLpL3YzPJuztZwaAmOS&pscrd=IhMIn_GlyqS7lgMVztqEAB1hNguaOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcjJTM090V2NpQ0xDY3hTSE1wX0ZTOHdSWUwzcmlXbkVLbXFWRjM2aGpXRlJUUmFmQjRBQjR6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/1006316414/?random=1311679336&cv=11&fst=1787643927564&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=17~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGbM5stzQWiR-aKLaStN32HqT-uoyXql_-OY1tb7h7NHUXpwTaLmZ-KyXdvD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSgd0cmlnZ2VyWgMKAQFiAwoBAw&cerd=ChTs370tpqe-LYOwvi2Evr4ttdG-LQ&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaUCWbemJ-piNAbr7jAYuqMrab9Xz7pc-gs&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYUWBkB71TwtHn1j9YWvvfGUVpZVNSYxNdIqBM5oaOLpL3YzPJuztZwaAmOS&pscrd=IhMIn_GlyqS7lgMVztqEAB1hNguaOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcjJTM090V2NpQ0xDY3hTSE1wX0ZTOHdSWUwzcmlXbkVLbXFWRjM2aGpXRlJUUmFmQjRBQjR6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/1006316414/?random=1787643927564&cv=11&fst=1787643927564&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZC"
+      },
+      {
+        "body_length": 110,
+        "body_snippet": "{\"code\":\"SSO-1101\",\"session\":\"7VjfpnIOmhyXnbAmFYo7CK8oKH2dTAhTQquLMbWGfD0Y64kv\",\"message\":\"Session not found\"}",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/api/v2/sso/check-session"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "image/gif",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://ad.doubleclick.net/activity;dc_pre=CPb_oMqku5YDFSVoKgkdw5EdAw;src=917807264;type=invmedia;cat=croma0;rcb=5;ord=9160763064130;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2z8889407033za20gzb889407033zd889407033xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.co.in/pagead/1p-conversion/609902077/?random=1463889708&cv=11&fst=1787643926785&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6h"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=568175919&cv=11&fst=1787643927155&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://www.google.com/pagead/1p-conversion/609902077/?random=568175919&cv=11&fst=1787643927155&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6hOZC"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.co.in/pagead/1p-conversion/609902077/?random=568175919&cv=11&fst=1787643927155&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=19&label=6hO"
+      },
+      {
+        "body_length": 11002,
+        "body_snippet": "{\"query\":\"*[\\n  _type == \\\"homePageFooterPage\\\" \\u0026\\u0026\\n  uid == $uid\\n][0]{\\n  ...,\\n  contentSlots{\\n    contentSlot[]{\\n      ...,\\n      components{\\n        component[]-\\u003e{\\n          ...\\n        }\\n      }\\n    }\\n  }\\n}\",\"result\":{\"_createdAt\":\"2026-03-31T16:52:09Z\",\"_id\":\"PWAHomePageFooter\",\"_rev\":\"HfhymUJDXQZSCW75nu7Qbe\",\"_type\":\"homePageFooterPage\",\"_updatedAt\":\"2026-06-22T15:07:42Z\",\"contentSlots\":{\"contentSlot\":[{\"_key\":\"75b41342591a\",\"components\":{\"component\":[{\"_createdAt\":\"2026-03-31T16:52:04Z\",\"_id\":\"PWAFooterCategoryComponent\",\"_rev\":\"7PTiuFKp5NOfYngu8aYsKi\",\"_type\":\"categoryNavigationComponent\",\"_updatedAt\":\"2026-03-31T16:52:04Z\",\"container\":false,\"modifiedTime\":\"2020-09-16T02:46:14.888+05:30\",\"name\":\"Products Component\",\"navigationNode\":{\"children\":[],\"entries\":[{\"_key\":\"2cb755757ead\",\"itemId\":\"PWAFooterTelevisionsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Televisions \\u0026 Accessories\",\"url\":\"/televisions-accessories/c/997\"},{\"_key\":\"fff31632f2bd\",\"itemId\":\"PWAFooterHomeAppliancesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Home Appliances\",\"url\":\"/home-appliances/c/5\"},{\"_key\":\"00abe9f7115b\",\"itemId\":\"PWAFooterPhones\\u0026WearablesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Phones \\u0026 Wearables\",\"url\":\"/phones-wearables/c/1\"},{\"_key\":\"de11da86a5e7\",\"itemId\":\"PWAFooterComputers\\u0026TabletsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Computers \\u0026 Tablets\",\"url\":\"/computers-tablets/c/3\"},{\"_key\":\"44633aaf079e\",\"itemId\":\"PWAFooterKitchenAppliancesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Kitchen Appliances\",\"url\":\"/kitchen-appliances/c/864\"},{\"_key\":\"877bcfe0e6c3\",\"itemId\":\"PWAFooterAudio\\u0026VideoLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Audio \\u0026 Video\",\"url\":\"/audio-video/c/292\"},{\"_key\":\"3c19b828cbbc\",\"itemId\":\"pwafooterhealthfitness\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Health \\u0026 Fitness\",\"url\":\"/health-fitness/c/11\"},{\"_key\":\"63b9e88f7c06\",\"itemId\":\"PWAFooterGrooming\\u0026WellnessLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Grooming \\u0026 Personal Care\",\"url\":\"/grooming-wellness/c/1021\"},{\"_key\":\"72f796ec6c0a\",\"itemId\":\"PWAFooterCamerasLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Cameras \\u0026 Accessories\",\"url\":\"/cameras-accessories/c/2\"},{\"_key\":\"9efd3b91b8c0\",\"itemId\":\"pwafootersmartdevices\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Smart Devices\",\"url\":\"/smart-devices/c/3002\"},{\"_key\":\"e417d851317c\",\"itemId\":\"PWAFooterGamingsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Gaming\",\"url\":\"/gaming/c/7\"},{\"_key\":\"31313a6d82fa\",\"itemId\":\"PWAFooterAccessoriesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Accessories\",\"url\":\"/accessories/c/8\"},{\"_key\":\"4c729e8bc07d\",\"itemId\":\"PWAFooterTopBrandsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Top Brands\",\"url\":\"/searchB?q=Top%20Brands%3Arelevance\\u0026text=Top%20Brands\"}],\"name\":\"Products Node\",\"uid\":\"PWAFooterCategoryNode\"},\"onlyOneRestrictionMustApply\":false,\"restricted\":false,\"sealed\":false,\"typeCode\":\"CategoryNavigationComponent\",\"uid\":\"PWAFooterCategoryComponent\",\"visible\":true,\"wrapAfter\":\"10\"}]},\"name\":\"PRODUCTS Slot\",\"position\":\"Products\",\"slotId\":\"ProductsSlot\",\"slotShared\":true},{\"_key\":\"321b578d2f49\",\"components\":{\"component\":[{\"_createdAt\":\"2026-03-31T16:52:05Z\",\"_id\":\"USEFULLINKSNodeComponent\",\"_rev\":\"afUsbq8lhJ8ZcDUbpjTcpU\",\"_system\":{\"base\":{\"id\":\"USEFULLINKSNodeComponent\",\"rev\":\"7PTiuFKp5NOfYngu8aYsKi\"}},\"_type\":\"categoryNavigationComponent\",\"_updatedAt\":\"2026-07-22T08:33:42Z\",\"",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/sanity/v1/cms?query=*%5B%0A++_type+%3D%3D+%22homePageFooterPage%22+%26%26%0A++uid+%3D%3D+%24uid%0A%5D%5B0%5D%7B%0A++...%2C%0A++contentSlots%7B%0A++++contentSlot%5B%5D%7B%0A++++++...%2C%0A++++++components%7B%0A++++++++component%5B%5D-%3E%7B%0A++++++++++...%0A++++++++%7D%0A++++++%7D%0A++++%7D%0A++%7D%0A%7D&%24uid=%22PWAHomePageFooter%22"
+      },
+      {
+        "body_length": 379544,
+        "body_snippet": "{\"query\":\"*[_type == \\\"contentPage\\\" \\u0026\\u0026 uid == \\\"pwaHomePage1\\\"][0]{\\n  ...,\\n  contentSlots{\\n    contentSlot[]{\\n      ...,\\n      components{\\n        component[]-\\u003e{\\n          ...,\\n          bannerList[]-\\u003e{\\n            ...\\n          },\\n          mobileBannerList[]-\\u003e{\\n            ...\\n          }\\n        }\\n      }\\n    }\\n  }\\n}\",\"result\":{\"_createdAt\":\"2026-03-10T18:18:44Z\",\"_id\":\"fwHz0eLM47ClHxxUSLbLuD\",\"_rev\":\"YDnwDiutEyNP1AlOw9mDbJ\",\"_system\":{\"base\":{\"id\":\"fwHz0eLM47ClHxxUSLbLuD\",\"rev\":\"xUEYJDdftD43kitL1rFdtj\"}},\"_type\":\"contentPage\",\"_updatedAt\":\"2026-08-24T07:36:25Z\",\"contentSlots\":{\"contentSlot\":[{\"_key\":\"slot_0\",\"components\":{\"component\":[{\"_createdAt\":\"2026-03-10T18:14:24Z\",\"_id\":\"fwHz0eLM47ClHxxUSLZH8H\",\"_rev\":\"b9P8QgzKRl0jmOQ7eKjqab\",\"_system\":{\"base\":{\"id\":\"fwHz0eLM47ClHxxUSLZH8H\",\"rev\":\"dPh4GTHW2jwQaxQIEGMBDd\"}},\"_type\":\"cromaProductColumnComponent\",\"_updatedAt\":\"2026-07-24T11:35:09Z\",\"activateTimerForDesktop\":false,\"activateTimerForMobile\":false,\"alignmentForTimerDesktop\":\"LEFT\",\"alignmentForTimerMobile\":\"LEFT\",\"autoScrollDesktop\":\"BASIC\",\"autoScrollMobile\":\"BASIC\",\"backgroundColorGradientTypeForDesktop\":\"LINEARTOPTOBOTTOM\",\"backgroundColorGradientTypeForMobile\":\"LINEARTOPTOBOTTOM\",\"bannerList\":[{\"_createdAt\":\"2026-03-10T18:12:34Z\",\"_id\":\"lLFQg4sIG73w6QdjA16QwA\",\"_rev\":\"HfhymUJDXQZSCW75nu4noS\",\"_type\":\"bannerComponent\",\"_updatedAt\":\"2026-03-30T14:28:50Z\",\"anchorTagFlag\":false,\"connectToStore\":false,\"container\":false,\"external\":false,\"media\":{\"_type\":\"mediaObject\",\"catalogId\":\"croma_content_catalog\",\"catalogVersion\":\"Online\",\"clickThroughFlag\":false,\"code\":\"mepage%20Cat%20Icons-Desktop/Mobile_sdtrdf.png\",\"downloadUrl\":\"https://media.tatacroma.com/Croma%20Assets/CMS/LP%20Page%20Banners/2024/HP%20Category%20Ic0on/Homepage%20Cat%20Icons-Desktop/Mobile_sdtrdf.png\",\"mime\":\"application/octet-stream\",\"name\":\"mepage%20Cat%20Icons-Desktop/Mobile_sdtrdf.png\",\"url\":\"https://media.tatacroma.com/Croma%20Assets/CMS/LP%20Page%20Banners/2024/HP%20Category%20Ic0on/Homepage%20Cat%20Icons-Desktop/Mobile_sdtrdf.png\"},\"modifiedtime\":\"2025-11-13T06:12:27.000Z\",\"name\":\"Mobiles\",\"sealed\":false,\"typeCode\":\"BannerComponent\",\"uid\":\"item_0000A31J\",\"urlLink\":\"/phones-wearables/mobile-phones/c/10\",\"videoFlag\":false,\"visible\":true},{\"_createdAt\":\"2026-03-10T18:12:37Z\",\"_id\":\"VNTMpy7TzI2Iql5pKD8wrU\",\"_rev\":\"HfhymUJDXQZSCW75nu4noS\",\"_type\":\"bannerComponent\",\"_updatedAt\":\"2026-03-30T14:26:51Z\",\"anchorTagFlag\":false,\"connectToStore\":false,\"container\":false,\"external\":false,\"media\":{\"_type\":\"mediaObject\",\"catalogId\":\"croma_content_catalog\",\"catalogVersion\":\"Online\",\"clickThroughFlag\":false,\"code\":\"Homepage%20Cat%20Icons-Desktop/TV_vdemgc.png\",\"downloadUrl\":\"https://media.tatacroma.com/Croma%20Assets/CMS/LP%20Page%20Banners/2024/HP%20Category%20Ic0on/Homepage%20Cat%20Icons-Desktop/TV_vdemgc.png\",\"mime\":\"application/octet-stream\",\"name\":\"Homepage%20Cat%20Icons-Desktop/TV_vdemgc.png\",\"url\":\"https://media.tatacroma.com/Croma%20Assets/CMS/LP%20Page%20Banners/2024/HP%20Category%20Ic0on/Homepage%20Cat%20Icons-Desktop/TV_vdemgc.png\"},\"modifiedtime\":\"2025-11-13T06:12:27.000Z\",\"name\":\"TV\",\"sealed\":false,\"typeCode\":\"BannerComponent\",\"uid\":\"item_0000A31H\",\"urlLink\":\"/televisions-accessories/led-tvs/c/392\",\"videoFlag\":false,\"visible\":true},{\"_createdAt\":\"2026-03-10T18:12:39Z\",\"_id\":\"fwHz0eLM47ClHxxUSLYxxd\",\"_rev\":\"HfhymUJDXQZSCW75nu4qCQ\",\"_type\":\"bannerComponent\",\"_updatedAt\":\"2026-03-30T14:28:10Z\",\"anchorTagFlag\":false,\"connectToStore\":false,\"container\":false,\"external\":false,\"media\":{\"_type\":\"mediaObject\",\"catalogId\":\"croma_content_catalog\",\"catalogVersion\":\"Online\",\"clickThroughFlag\":false,\"code\":\"mepage%20Cat%20Icons-Desktop/Laptops_pzewpv.png\",\"downloadUrl\":\"https://media.tatacroma.com/Croma%20Assets/CMS/LP%20Page%20Banners/2024/HP%20Category%20Ic0on/Homepage%20Cat%20Icons-Desktop/Laptops_pzewpv.png\",\"mime\":\"application/octet-stream\",\"name\":\"mepage%20Cat%20Icons-Desktop/Laptops_pzewpv.png\",\"url\":\"https://media.tatacroma.c",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/sanity/v1/cms?query=*%5B_type+%3D%3D+%22contentPage%22+%26%26+uid+%3D%3D+%22pwaHomePage1%22%5D%5B0%5D%7B%0A++...%2C%0A++contentSlots%7B%0A++++contentSlot%5B%5D%7B%0A++++++...%2C%0A++++++components%7B%0A++++++++component%5B%5D-%3E%7B%0A++++++++++...%2C%0A++++++++++bannerList%5B%5D-%3E%7B%0A++++++++++++...%0A++++++++++%7D%2C%0A++++++++++mobileBannerList%5B%5D-%3E%7B%0A+++++++++"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=1311679336&cv=11&fst=1787643927564&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=422045997&cv=11&fst=1787643927542&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&l"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://ad.doubleclick.net/activity;src=13135721;type=croma01;cat=croma0;rcb=6;ord=5735501008593;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2v9190403969z8889407033za20gzb889407033zd889407033xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938"
+      },
+      {
+        "body_length": 3,
+        "body_snippet": "{}\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://www.google.com/pagead/1p-conversion/1006316414/?random=1311679336&cv=11&fst=1787643927564&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://www.google.com/pagead/1p-conversion/1006316414/?random=422045997&cv=11&fst=1787643927542&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://ad.doubleclick.net/activity;dc_pre=CMHBm8qku5YDFbnwOAYdn5EKBg;src=13135721;type=croma01;cat=croma0;rcb=6;ord=5735501008593;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2v9190403969z8889407033za20gzb889407033zd889407033xea;gcd=13l3l3l3l1l1;dma=0"
+      },
+      {
+        "body_length": 21826,
+        "body_snippet": "[{\"code\":\"323555\",\"name\":\"Croma 140 cm (55 inch) 4 Star QLED 4K Ultra HD Smart Google TV 5.0 with Flicker Free Technology (2026 model)\",\"url\":\"/croma-140-cm-55-inch-4-star-qled-4k-ultra-hd-smart-google-tv-5-0-with-flicker-free-technology-2026-model-/p/323555\",\"SAP_MATERIAL_TYPE\":\"ZPLU\",\"SAP_BOM_DESC\":\"\",\"applianceType\":\"LA\",\"demo\":\"Y\",\"demoFlag\":true,\"discount\":0.0,\"finalReviewRating\":0.0,\"numberOfRatings\":0,\"onlyRatingCount\":0,\"classCode\":\"0261\",\"specialSKU\":false,\"wiiFlag\":false,\"summary\":\"E-Croma QLED 140cm 55UGQ024651 GTV UHD\",\"immediateSuperCategoryName\":\"QLED TVs\",\"installationFlag\":\"Y\",\"isCSCProduct\":false,\"isPODAvailable\":false,\"isEmiApplicable\":\"true\",\"manufacturerAID\":\"b-0082\",\"modelNumber\":\"CREL055UGQ024651\",\"images\":[{\"altText\":\"Croma 140 cm (55 inch) 4 Star QLED 4K Ultra HD Smart Google TV 5.0 with Flicker Free Technology (2026 model)\",\"format\":\"700Wx700H\",\"imageType\":\"PRIMARY\",\"url\":\"https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323555_0_tTFC_4-J7.png?updatedAt=1787029300492\"}],\"pdpBreadcrumbs\":[{\"categoryCode\":\"997\",\"name\":\"Televisions & Accessories\",\"url\":\"/televisions-accessories/c/997\"},{\"categoryCode\":\"392\",\"name\":\"LED TVs\",\"url\":\"/televisions-accessories/led-tvs/c/392\"},{\"categoryCode\":\"897\",\"name\":\"QLED TVs\",\"url\":\"/televisions-accessories/led-tvs/qled-tvs/c/897\"},{\"name\":\"Croma 140 cm (55 inch) 4 Star QLED 4K Ultra HD Smart Google TV 5.0 with Flicker Free Technology (2026 model)\",\"url\":\"/croma-140-cm-55-inch-4-star-qled-4k-ultra-hd-smart-google-tv-5-0-with-flicker-free-technology-2026-model-/p/323555\",\"linkClass\":\"active\"}],\"standardWarranty\":\"12\",\"isWarranty\":false,\"mchCategoryName\":\"LED Panels 55\\\"\",\"hdelCharge\":{\"currencyIso\":\"INR\",\"formattedValue\":\"₹99.00\",\"priceType\":\"BUY\",\"value\":99.0},\"sdelCharge\":{\"currencyIso\":\"INR\",\"formattedValue\":\"₹0.00\",\"priceType\":\"BUY\",\"value\":0.0},\"gstEnabled\":true,\"manufacturer\":\"Croma\",\"categoryL0\":\"997\",\"categoryL1\":\"392\",\"categoryL2\":\"897\",\"approvalStatus\":\"approved\"},{\"code\":\"224037\",\"name\":\"SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black)\",\"url\":\"/sony-ht-s20r-400w-bluetooth-home-theatre-with-remote-dolby-digital-5-1-channel-black-/p/224037\",\"SAP_MATERIAL_TYPE\":\"ZPLU\",\"SAP_BOM_DESC\":\"\",\"applianceType\":\"LA\",\"demo\":\"\",\"demoFlag\":false,\"discount\":0.0,\"finalReviewRating\":4.4,\"numberOfRatings\":209,\"onlyRatingCount\":42,\"averageRating\":4.416267942583732,\"classCode\":\"0693\",\"specialSKU\":false,\"wiiFlag\":false,\"summary\":\"Sony 5.1Ch Soundbar HT-S20R\",\"immediateSuperCategoryName\":\"Sound Bars\",\"installationFlag\":\"\",\"isCSCProduct\":true,\"isPODAvailable\":false,\"isEmiApplicable\":\"true\",\"manufacturerAID\":\"b-0346\",\"modelNumber\":\"HT-S20R\",\"images\":[{\"altText\":\"SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black)\",\"format\":\"700Wx700H\",\"imageType\":\"PRIMARY\",\"url\":\"https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/224037_0_nAnOs45Xh.png?updatedAt=1763650013973\"}],\"pdpBreadcrumbs\":[{\"categoryCode\":\"292\",\"name\":\"Audio & Video\",\"url\":\"/audio-video/c/292\"},{\"categoryCode\":\"44\",\"name\":\"Home Theatres & Soundbars\",\"url\":\"/audio-video/home-theatres-soundbars/c/44\"},{\"categoryCode\":\"256\",\"name\":\"Sound Bars\",\"url\":\"/audio-video/home-theatres-soundbars/sound-bars/c/256\"},{\"name\":\"SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black)\",\"url\":\"/sony-ht-s20r-400w-bluetooth-home-theatre-with-remote-dolby-digital-5-1-channel-black-/p/224037\",\"linkClass\":\"active\"}],\"standardWarranty\":\"12\",\"isWarranty\":false,\"mchCategoryName\":\"Sound Bars 15 K - 30 K\",\"hdelCharge\":{\"currencyIso\":\"INR\",\"formattedValue\":\"₹49.00\",\"priceType\":\"BUY\",\"value\":49.0},\"sdelCharge\":{\"currencyIso\":\"INR\",\"formattedValue\":\"₹59.00\",\"priceType\":\"BUY\",\"value\":59.0},\"gstEnabled\":true,\"manufacturer\":\"Sony\",\"categoryL0\":\"292\",\"categoryL1\":\"44\",\"categoryL2\":\"256\",\"approvalStatus\":\"approved\"},{\"code\":\"319958\",\"name\":\"Lenovo Idea Tab Plus Wi-Fi Android Tablet with L",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/catalog/v1/product/list?productList=323555,224037,319958,323061,316300,322822,323649,323445,322520,319806,317872&type=L2"
+      },
+      {
+        "body_length": 2176,
+        "body_snippet": "{\"pricelist\":[{\"itemId\":\"323555\",\"currencyIso\":\"INR\",\"discountPercentage\":\"34.02%\",\"discountValue\":\"17010.00\",\"mrp\":\"₹50,000.00\",\"mrpValue\":\"50000.00\",\"sellingPrice\":\"₹32,990.00\",\"sellingPriceValue\":\"32990.00\"},{\"itemId\":\"224037\",\"currencyIso\":\"INR\",\"discountPercentage\":\"10.01%\",\"discountValue\":\"2000.00\",\"mrp\":\"₹19,990.00\",\"mrpValue\":\"19990.00\",\"sellingPrice\":\"₹17,990.00\",\"sellingPriceValue\":\"17990.00\"},{\"itemId\":\"319958\",\"currencyIso\":\"INR\",\"discountPercentage\":\"8.75%\",\"discountValue\":\"3501.00\",\"mrp\":\"₹40,000.00\",\"mrpValue\":\"40000.00\",\"sellingPrice\":\"₹36,499.00\",\"sellingPriceValue\":\"36499.00\"},{\"itemId\":\"323061\",\"currencyIso\":\"INR\",\"discountPercentage\":\"35.04%\",\"discountValue\":\"47193.00\",\"mrp\":\"₹134,687.00\",\"mrpValue\":\"134687.00\",\"sellingPrice\":\"₹87,494.00\",\"sellingPriceValue\":\"87494.00\"},{\"itemId\":\"316300\",\"currencyIso\":\"INR\",\"discountPercentage\":\"16.00%\",\"discountValue\":\"16000.00\",\"mrp\":\"₹99,990.00\",\"mrpValue\":\"99990.00\",\"sellingPrice\":\"₹83,990.00\",\"sellingPriceValue\":\"83990.00\"},{\"itemId\":\"322822\",\"currencyIso\":\"INR\",\"discountPercentage\":\"19.50%\",\"discountValue\":\"3510.00\",\"mrp\":\"₹18,000.00\",\"mrpValue\":\"18000.00\",\"sellingPrice\":\"₹14,490.00\",\"sellingPriceValue\":\"14490.00\"},{\"itemId\":\"323649\",\"currencyIso\":\"INR\",\"discountPercentage\":\"13.09%\",\"discountValue\":\"3010.00\",\"mrp\":\"₹23,000.00\",\"mrpValue\":\"23000.00\",\"sellingPrice\":\"₹19,990.00\",\"sellingPriceValue\":\"19990.00\"},{\"itemId\":\"323445\",\"currencyIso\":\"INR\",\"discountPercentage\":\"29.47%\",\"discountValue\":\"5010.00\",\"mrp\":\"₹17,000.00\",\"mrpValue\":\"17000.00\",\"sellingPrice\":\"₹11,990.00\",\"sellingPriceValue\":\"11990.00\"},{\"itemId\":\"322520\",\"currencyIso\":\"INR\",\"discountPercentage\":\"29.00%\",\"discountValue\":\"5510.00\",\"mrp\":\"₹19,000.00\",\"mrpValue\":\"19000.00\",\"sellingPrice\":\"₹13,490.00\",\"sellingPriceValue\":\"13490.00\"},{\"itemId\":\"319806\",\"currencyIso\":\"INR\",\"discountPercentage\":\"31.56%\",\"discountValue\":\"12910.00\",\"mrp\":\"₹40,900.00\",\"mrpValue\":\"40900.00\",\"sellingPrice\":\"₹27,990.00\",\"sellingPriceValue\":\"27990.00\"},{\"itemId\":\"317872\",\"currencyIso\":\"INR\",\"discountPercentage\":\"13.83%\",\"discountValue\":\"4010.00\",\"mrp\":\"₹29,000.00\",\"mrpValue\":\"29000.00\",\"sellingPrice\":\"₹24,990.00\",\"sellingPriceValue\":\"24990.00\"}]}",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/pricing-services/v2/price/national?itemIds=323555,224037,319958,323061,316300,322822,323649,323445,322520,319806,317872&pincode=560087"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 202,
+        "url": "https://rs.fullstory.com/rec/page"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240za20gzb889407033zd889407033&_p=1787643924452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAGQC&ae=a&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=17&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&_s=2&tag_exp=115938466"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.co.in/pagead/1p-conversion/1006316414/?random=1311679336&cv=11&fst=1787643927564&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYE"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.co.in/pagead/1p-conversion/1006316414/?random=422045997&cv=11&fst=1787643927542&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "image/gif",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/gmp/conversion/_dc_unique_id=11176581307619349070;_dc_ptd=ChEI8Pq01AYQy62f0uiim6nlARIfAGS4-nipz7zPgeLka5jm1x040_UvmSAErrJkmdFozg;_dc_time=1787643927;cid=CAQS4QEAQM4h3NJ_wzkFuDVwHs0ZOJl0Yjf4cbpbOIf7vvFAL1hqSkJRkHzTkQRKz6AyE-wcc66yTOhJsAlQIB_kyM3eIjKpZhlChp-Ju7G8_EfqMZe2Q4MG1bmMyyijoYrvV603N0GrmTaKrJHAidYZ5MPnSGQ8-BRni7npGVVZeWGtzjTIoskqyrhqAUVLkyUwXb6jzMTcNPs6sKqnNtjDynGHx56L"
+      },
+      {
+        "body_length": 19,
+        "body_snippet": "{\"success\":\"Saved\"}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/events/v1"
+      },
+      {
+        "body_length": 19,
+        "body_snippet": "{\"success\":\"Saved\"}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/events/v1"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033&_p=1787643924452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQC&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=17&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&tag_exp=11593846"
+      },
+      {
+        "body_length": 19,
+        "body_snippet": "{\"success\":\"Saved\"}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/events/v1"
+      },
+      {
+        "body_length": 54,
+        "body_snippet": "{ \"statusCode\": 404, \"message\": \"Resource not found\" }",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 404,
+        "url": "https://api.tatadigital.com/api/v1.1/msd/recommendations"
+      },
+      {
+        "body_length": 2,
+        "body_snippet": "[]",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/searchservices/v1/autocomplete?fields=FULL"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": 2609,
+        "body_snippet": "[{\"suggestedWord\":\"32inch tv\",\"normalized\":\"23chintv\",\"score\":802.49,\"filters\":null,\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"autosuggest_ranking\",\"metadata\":null,\"filters_link\":null,\"id\":\"32inch tv\"},{\"suggestedWord\":\"32inch croma tv\",\"normalized\":\"23acchimnortv\",\"score\":800.53,\"filters\":null,\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"autosuggest_ranking\",\"metadata\":null,\"filters_link\":null,\"id\":\"32inch croma tv\"},{\"suggestedWord\":\"32gb ram laptop\",\"normalized\":\"23aabglmopprt\",\"score\":800.34,\"filters\":null,\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"autosuggest_ranking\",\"metadata\":null,\"filters_link\":null,\"id\":\"32gb ram laptop\"},{\"suggestedWord\":\"32inch monitor\",\"normalized\":\"23chiimnnoort\",\"score\":800.33,\"filters\":null,\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"autosuggest_ranking\",\"metadata\":null,\"filters_link\":null,\"id\":\"32inch monitor\"},{\"suggestedWord\":\"itel vision 3 32gb\",\"normalized\":\"233begiiilnostv\",\"score\":82.09,\"filters\":{\"SG-ManufacturerDetails-Brand\":[\"itel\"],\"SG-M&TStorageSpecifications-InternalStorage\":[\"32gb\"],\"SG-ManufacturerDetails-ModelSeries\":[\"vision 3\"]},\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"generated_suggestions\",\"metadata\":null,\"filters_link\":null,\"id\":\"itel vision 3 32gb\"},{\"suggestedWord\":\"samsung galaxy note 3 32gb\",\"normalized\":\"233aaabeggglmnnosstuxy\",\"score\":72.94,\"filters\":{\"SG-ManufacturerDetails-Brand\":[\"samsung\"],\"SG-M&TStorageSpecifications-InternalStorage\":[\"32gb\"],\"SG-ManufacturerDetails-ModelSeries\":[\"galaxy note 3\"]},\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"generated_suggestions\",\"metadata\":null,\"filters_link\":null,\"id\":\"samsung galaxy note 3 32gb\"},{\"suggestedWord\":\"32 inch android tv\",\"normalized\":\"23acddhiinnortv\",\"score\":803.64,\"filters\":null,\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"autosuggest_ranking\",\"metadata\":null,\"filters_link\":null,\"id\":\"32 inch android tv\"},{\"suggestedWord\":\"32 inch smart led tv\",\"normalized\":\"23acdehilmnrsttv\",\"score\":802.64,\"filters\":null,\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"autosuggest_ranking\",\"metadata\":null,\"filters_link\":null,\"id\":\"32 inch smart led tv\"},{\"suggestedWord\":\"32 inch led tv\",\"normalized\":\"23cdehilntv\",\"score\":802.52,\"filters\":null,\"start_date\":null,\"end_date\":null,\"prefixed\":false,\"highlight\":null,\"source\":\"autosuggest_ranking\",\"metadata\":null,\"filters_link\":null,\"id\":\"32 inch led tv\"}]",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/searchservices/v1/autocomplete?term=323&fields=FULL"
+      },
+      {
+        "body_length": 2,
+        "body_snippet": "[]",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/searchservices/v1/autocomplete?term=3233&fields=FULL"
+      },
+      {
+        "body_length": 2,
+        "body_snippet": "[]",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/searchservices/v1/autocomplete?term=32336&fields=FULL"
+      },
+      {
+        "body_length": 2,
+        "body_snippet": "[]",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/searchservices/v1/autocomplete?term=323360&fields=FULL"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": 19,
+        "body_snippet": "{\"success\":\"Saved\"}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/events/v1"
+      },
+      {
+        "body_length": 1656,
+        "body_snippet": "{\"results\":[{\"address_components\":[{\"long_name\":\"560087\",\"short_name\":\"560087\",\"types\":[\"postal_code\"]},{\"long_name\":\"Bengaluru\",\"short_name\":\"Bengaluru\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Bangalore Division\",\"short_name\":\"Bangalore Division\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Karnataka\",\"short_name\":\"KA\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"India\",\"short_name\":\"IN\",\"types\":[\"country\",\"political\"]}],\"formatted_address\":\"Bengaluru, Karnataka 560087, India\",\"geometry\":{\"bounds\":{\"northeast\":{\"lat\":12.9710621,\"lng\":77.817943},\"southwest\":{\"lat\":12.8974679,\"lng\":77.69813099999999}},\"location\":{\"lat\":12.9214653,\"lng\":77.73431389999999},\"location_type\":\"APPROXIMATE\",\"viewport\":{\"northeast\":{\"lat\":12.9710621,\"lng\":77.817943},\"southwest\":{\"lat\":12.8974679,\"lng\":77.69813099999999}}},\"place_id\":\"ChIJjz0fq4MSrjsRnEmhrBQ50x8\",\"postcode_localities\":[\"Ajjagondahalli\",\"Balagere\",\"Bellikere\",\"Bengaluru\",\"Bhoganhalli\",\"Bylahalli\",\"Chikkanekkundi\",\"Chikkavaderapura\",\"Deshapande Guttahalli\",\"Gonighattapura\",\"Gullakaipura\",\"Gunjur\",\"Gunjur Palya\",\"Gunjur Village\",\"Halasahalli\",\"Halasahalli Thippasandra\",\"Harohalli\",\"Heggondanahalli\",\"Hegondanahalli\",\"Hosahalli\",\"Janthagondahalli\",\"Kachamaranahalli\",\"Kachmaranhalli\",\"Kamanhalli\",\"Kathirguppe\",\"Kotur\",\"Kuguru\",\"Madappanahalli\",\"Madhuranagara\",\"Mullur\",\"Muthakadahalli\",\"Muthasandra\",\"Naganayakanakote\",\"Nagen Agrahara\",\"Nekkundi Dommasandra\",\"Nerige\",\"Panathur\",\"Ramanayakanahalli\",\"Samethanahalli\",\"Seeganaikanahalli\",\"Sorahunase\",\"Thimmandally\",\"Thippasandra\",\"Valepura\",\"Valepura Colony\"],\"types\":[\"postal_code\"]}],\"status\":\"OK\"}",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/pwagoogle/v1/getgeocode/560087?components=%27country:IN|postal_code:560087%27"
+      },
+      {
+        "body_length": 18201,
+        "body_snippet": "{\n   \"boundEastLongitude\" : 0.0,\n   \"boundNorthLatitude\" : 0.0,\n   \"boundSouthLatitude\" : 0.0,\n   \"boundWestLongitude\" : 0.0,\n   \"sourceLatitude\" : 0.0,\n   \"sourceLongitude\" : 0.0,\n   \"stores\" : [ {\n      \"address\" : {\n         \"billingAddress\" : false,\n         \"city\" : {\n            \"code\" : \"BENGALURU\",\n            \"name\" : \"BENGALURU\"\n         },\n         \"country\" : {\n            \"isocode\" : \"IN\"\n         },\n         \"defaultAddress\" : false,\n         \"id\" : \"8905014214679\",\n         \"line1\" : \"Varthur Road, Next to Chrysalis High School|\",\n         \"line2\" : \"Gunjur Village|\",\n         \"phone\" : \"8867703191\",\n         \"postalCode\" : \"560087\",\n         \"town\" : \"Bengaluru\"\n      },\n      \"displayName\" : \"Croma Gunjur\",\n      \"formattedDistance\" : \"1.3 Km\",\n      \"geoPoint\" : {\n         \"latitude\" : 12.93076064,\n         \"longitude\" : 77.74132326\n      },\n      \"metaDescription\" : \"Visit us at Gunjur Village, Bangalore Croma Store. Get Croma store details like address, contact number, working hours etc. Visit Croma for Electronic Shopping!\",\n      \"metaTitle\" : \"Gunjur Village, Bangalore Croma Store | Electronics Retail Store | Croma\",\n      \"name\" : \"A235\"\n   }, {\n      \"address\" : {\n         \"billingAddress\" : false,\n         \"city\" : {\n            \"code\" : \"BANGALORE\",\n            \"name\" : \"BANGALORE\"\n         },\n         \"country\" : {\n            \"isocode\" : \"IN\"\n         },\n         \"defaultAddress\" : false,\n         \"id\" : \"10493934239767\",\n         \"line1\" : \"Unit No. 19/11, Carmelaram,  Doddakanahalli,|\",\n         \"line2\" : \"Sarjapur main road|\",\n         \"phone\" : \"9035054500\",\n         \"postalCode\" : \"560035\",\n         \"state\" : {\n            \"code\" : \"KARNATAKA\",\n            \"name\" : \"KARNATAKA\"\n         },\n         \"town\" : \"Bangalore\"\n      },\n      \"displayName\" : \"Croma Bangalore Carmelarem\",\n      \"formattedDistance\" : \"3.9 Km\",\n      \"geoPoint\" : {\n         \"latitude\" : 12.903654,\n         \"longitude\" : 77.703636\n      },\n      \"name\" : \"A484\"\n   }, {\n      \"address\" : {\n         \"billingAddress\" : false,\n         \"city\" : {\n            \"code\" : \"BENGALURU\",\n            \"name\" : \"BENGALURU\"\n         },\n         \"country\" : {\n            \"isocode\" : \"IN\"\n         },\n         \"defaultAddress\" : false,\n         \"id\" : \"8796102295575\",\n         \"line1\" : \"Croma, Miraya Rose, Survey No.66/1 (Old No.66 Siddapura Village|\",\n         \"line2\" : \"Varthur Rd, Uttarahalli Hobli|\",\n         \"phone\" : \"7795838013\",\n         \"postalCode\" : \"560066\",\n         \"state\" : {\n            \"code\" : \"KARNATAKA\",\n            \"name\" : \"KARNATAKA\"\n         },\n         \"town\" : \"Bengaluru\"\n      },\n      \"displayName\" : \"Croma Whitefield\",\n      \"formattedDistance\" : \"3.9 Km\",\n      \"geoPoint\" : {\n         \"latitude\" : 12.9570062,\n         \"longitude\" : 77.732471\n      },\n      \"metaDescription\" : \"Visit us at Whitefield, Bangalore Croma Store. Get Croma store details like address, contact number, working hours etc. Visit Croma for Electronic Shopping!\",\n      \"metaTitle\" : \"Whitefield, Bangalore Croma Store | Electronics Retail Store | Croma\",\n      \"name\" : \"A150\"\n   }, {\n      \"address\" : {\n         \"billingAddress\" : false,\n         \"city\" : {\n            \"code\" : \"BENGALURU\",\n            \"name\" : \"BENGALURU\"\n         },\n         \"country\" : {\n            \"isocode\" : \"IN\"\n         },\n         \"defaultAddress\" : false,\n         \"id\" : \"8796100788247\",\n         \"line1\" : \"Croma, P.R. Business Centre, Marathahalli - Sarjapur Outer Ring Rd|\",\n         \"line2\" : \"Kadubeesanahalli, Marathahalli|\",\n         \"phone\" : \"7795838012\",\n         \"postalCode\" : \"560037\",\n         \"state\" : {\n            \"code\" : \"KARNATAKA\",\n            \"name\" : \"KARNATAKA\"\n         },\n         \"town\" : \"Bengaluru\"\n      },\n      \"displayName\" : \"Croma Marathahalli\",\n      \"formattedDistance\" : \"4.6 Km\",\n      \"geoPoint\" : {\n         \"latitude\" : 12.94317875,\n         \"longitude\" : 77.69791506\n      },\n      \"metaDescription\" : \"Visit us at Marathahalli, Banga",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/lookup/mobile-app/v1/storelocation?latitude=12.9214653&longitude=77.73431389999999&"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 201,
+        "url": "https://www.croma.com/s677cV/YX/1K/nDnG/odGTg9EpwFfx8/uaVwcwLXz62wXpQi7S/cGcuVDAD/LTxFVUB/nVD8B"
+      },
+      {
+        "body_length": 14535,
+        "body_snippet": "{\"debugProperties\":{\"searchFallback\":false,\"rulesApplied\":false,\"PINCODE\":{\"response_time_ms\":0,\"cache_hit\":true},\"TOTAL_MS\":102},\"products\":[{\"applianceType\":\"SA\",\"averageRating\":0.0,\"categoryL0\":\"3\",\"categoryL1\":\"20\",\"categoryL2\":\"806\",\"code\":\"323360\",\"demoFlag\":false,\"discount\":0,\"discountValue\":\"22%\",\"finalReviewRating\":0.0,\"finalReviewRatingCount\":0.0,\"manufacturer\":\"Lenovo\",\"mrp\":{\"formattedValue\":\"₹1,46,790\",\"priceType\":\"FROM\",\"value\":146790.0},\"name\":\"Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG)\",\"plpImage\":\"https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323360_0_iAkWiI6pq_.png?updatedAt=1783326349626\",\"price\":{\"formattedValue\":\"₹1,13,990\",\"priceType\":\"BUY\",\"value\":113990.0},\"pincodePrice\":{\"formattedValue\":\"₹1,13,990\",\"priceType\":\"BUY\",\"value\":113990.0},\"productLiveDate\":\"2026-06-11T03:17:06\",\"quickViewDesc\":\"<ul><li>Display: 39.62 cms (15.6 inches), FHD IPS</li><li>Memory: 16GB DDR5 RAM, 512GB M.2 PCIe NVMe 4.0 SSD ROM</li><li>Processor: AMD Ryzen 5</li><li>OS: Windows 11 Home</li><li>Graphics: NVIDIA GeForce RTX 3050</li><li>Included Software: MS Office Home 2024</li><li>Anti-glare Display, Nahimic Audio, White Backlight Keyboard</li><li>Warranty: 1 year Carry-In</li></ul>\",\"specialSku\":false,\"standardWarranty\":[\"12\"],\"summary\":\"Lenovo 15 LOQE FYIN 7KR5 16GB6X 512+3050\",\"url\":\"/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360\",\"wiiFlag\":false,\"stockFlag\":[\"SA-A260\",\"SA-A145\",\"SA-A035\",\"SA-A107\",\"SA-A660\",\"SA-A214\",\"SA-A246\",\"SA-A276\",\"SA-A484\",\"SA-A728\",\"SA-A029\",\"SA-A742\",\"SA-A131\",\"SA-A314\",\"SA-A233\",\"SA-A452\",\"SA-A256\",\"SA-A159\",\"SA-A137\",\"SA-A396\",\"SA-A359\",\"SA-A135\",\"SA-A020\",\"SA-A206\",\"SA-A119\",\"SA-A536\",\"SA-A017\",\"SA-A105\",\"SA-A562\",\"SA-A095\",\"SA-A181\",\"SA-E003\",\"SA-A073\",\"SA-A316\",\"SA-A032\",\"SA-A337\",\"SA-A173\",\"SA-A189\",\"SA-A210\",\"SA-A060\",\"SA-A421\",\"SA-A026\",\"SA-A184\",\"SA-A544\",\"SA-A292\",\"SA-A039\",\"SA-A433\",\"SA-A045\",\"SA-A151\",\"SA-A567\",\"SA-A741\",\"SA-A239\",\"SA-A203\",\"SA-A134\",\"SA-A287\",\"SA-A182\",\"SA-A665\",\"SA-A104\",\"SA-A285\",\"SA-E062\",\"SA-A144\",\"SA-A493\",\"SA-A409\",\"SA-A113\",\"SA-A431\",\"SA-A687\",\"SA-A709\",\"SA-A623\",\"SA-A289\",\"SA-A126\",\"SA-A112\",\"SA-A040\",\"SA-A718\",\"SA-A585\",\"SA-A204\",\"SA-A132\",\"SA-A241\",\"SA-A412\",\"SA-A240\",\"SA-A049\",\"SA-A605\",\"SA-E042\",\"SA-A172\",\"SA-A044\",\"SA-A199\",\"SA-A595\",\"SA-A088\",\"SA-A152\",\"SA-A141\"],\"relevancyScore\":30.0,\"rankingScore\":20.0,\"numberOfReviews\":0,\"numberOfRatings\":0,\"manufacturerAID\":\"b-0216\",\"plmStatus\":\"ZA\",\"storeDiscountPercent\":[\"National_22.34\",\"A034_20.78\",\"A037_20.78\",\"A040_20.78\",\"A095_20.78\",\"A097_20.78\",\"A138_20.78\",\"A146_20.78\",\"A157_20.78\",\"A180_20.78\",\"A181_20.78\",\"A193_20.78\",\"A199_20.78\",\"A213_20.78\",\"A219_20.78\",\"A220_20.78\",\"A224_20.78\",\"A226_20.78\",\"A229_20.78\",\"A234_20.78\",\"A238_20.78\",\"A245_20.78\",\"A252_20.78\",\"A269_20.78\",\"A274_20.78\",\"A278_20.78\",\"A279_36.72\",\"A280_36.72\",\"A282_36.72\",\"A298_23.84\",\"A299_36.72\",\"A309_36.72\",\"A315_20.78\",\"A318_20.78\",\"A322_20.78\",\"A323_36.72\",\"A339_20.78\",\"A340_20.78\",\"A350_20.78\",\"A353_20.78\",\"A356_20.78\",\"A362_20.78\",\"A378_20.78\",\"A380_20.78\",\"A381_20.78\",\"A385_20.78\",\"A389_20.78\",\"A391_20.78\",\"A392_20.78\",\"A397_20.78\",\"A402_20.78\",\"A404_20.78\",\"A407_20.78\",\"A418_20.78\",\"A420_20.78\",\"A427_20.78\",\"A432_36.72\",\"A433_20.78\",\"A441_20.78\",\"A454_20.78\",\"A467_20.78\",\"A475_20.78\",\"A476_20.78\",\"A485_20.78\",\"A501_20.78\",\"A502_20.78\",\"A516_20.78\",\"A519_23.84\",\"A522_36.72\",\"A527_20.78\",\"A531_23.84\",\"A536_36.72\",\"A537_36.72\",\"A541_20.78\",\"A543_20.78\",\"A549_20.78\",\"A561_36.72\",\"A573_20.78\",\"A578_20.78\",\"A579_20.78\",\"A584_20.78\",\"A586_20.78\",\"A592_20.78\",\"A608_20.78\",\"A616_36.72\",\"A617_20.78\",\"A618_20.78\",\"A621_36.72\",\"A623_20.78\",\"A629_23.84\",\"A631_23.84\",\"A632_20.78\",\"A633_20.71\",\"A639_23.84\",\"A647_20.78\",\"A6",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/searchservices/v1/search?currentPage=0&query=323360%3Arelevance&fields=FULL&channel=WEB&channelCode=560087&spellOpt=DEFAULT"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033&_p=1787643924452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQC&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=17&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&tag_exp=11593846"
+      },
+      {
+        "body_length": 1873,
+        "body_snippet": "{\n  \"promise\": {\n    \"suggestedOption\": {\n      \"option\": {\n        \"promiseLines\": {\n          \"promiseLine\": [\n            {\n              \"sourcingClassification\": \"EC\",\n              \"lineId\": \"1\",\n              \"itemID\": \"323360\",\n              \"requiredQty\": \"1\",\n              \"requiredCapacity\": \"1\",\n              \"externalReferenceId\": \"90377\",\n              \"orderType\": \"normal\",\n              \"unitOfMeasure\": \"EA\",\n              \"carrierServiceCode\": \"Shiprocket - Forward\",\n              \"scac\": \"Shiprocket\",\n              \"zipEnabledInTMS\": true,\n              \"isTmsEnable\": true,\n              \"fulfillmentType\": \"HDEL\",\n              \"assignments\": {\n                \"totalNumberOfRecords\": \"1\",\n                \"assignment\": [\n                  {\n                    \"quantity\": \"1\",\n                    \"shipNode\": \"D023\",\n                    \"lmdFcId\": \"X033\",\n                    \"offset\": \"1200\",\n                    \"deliveryDate\": \"2026-08-26T13:45:35.169+00:00\",\n                    \"zipCode\": \"560087\",\n                    \"productAvailDate\": \"2026-08-25T13:15:35.169\",\n                    \"podIndicator\": \"N\",\n                    \"isTradeinIndicator\": \"N\",\n                    \"deliveryDates\": []\n                  }\n                ]\n              },\n              \"availableDelivery\": [],\n              \"extn\": {\n                \"preOrderItem\": \"\",\n                \"widerStoreFlag\": \"\"\n              }\n            }\n          ]\n        }\n      },\n      \"unavailableLines\": {\n        \"unavailableLine\": [\n          {\n            \"itemID\": \"323360\",\n            \"lineId\": \"2\",\n            \"unavailableReason\": \"SOURCING_RULE_NOT_DEFINED\"\n          },\n          {\n            \"itemID\": \"323360\",\n            \"lineId\": \"3\",\n            \"unavailableReason\": \"SOURCING_RULE_NOT_DEFINED\"\n          }\n        ]\n      }\n    },\n    \"options\": {}\n  }\n}",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/inventory/oms/v2/tms/details-pwa/"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/page"
+      },
+      {
+        "body_length": 19,
+        "body_snippet": "{\"success\":\"Saved\"}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/events/v1"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033&_p=1787643924452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=IAAAAGQC&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=17&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&_s=5&tag_exp=115"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/pagead/form-data/1006316414?gtm=45be68o0h2v888728434za20gzb889407033zd889407033xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&rcb=9&npa=0&frm=0&pscdl=noapi&ae=a&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&fm"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/rmkt/collect/1006316414/?random=1787643935470&cv=11&fst=1787643935470&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be68o0h2v888728434za20gzb889407033zd889407033xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D3"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://www.google.com/ccm/form-data/1006316414?gtm=45be68o0h2v888728434za20gzb889407033zd889407033xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&rcb=9&npa=0&frm=0&ae=a&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mo"
+      },
+      {
+        "body_length": 3538,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=1195780873&cv=11&fst=1787643935683&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=18~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGT9NJcbJdX25xvvdP7O_JaDXaos6RqWmIGoOA95XfXqIOSNdvcRJ1ZOzrvD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkoebm90LW5hdmlnYXRpb24tc291cmNlLCB0cmlnZ2VyWgMKAQFiAwoBAw&cerd=Cgzr370tpqe-LYS-vi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaWMFXPITXjic6ew9NlEcEjC4A6VdVLlUCY&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYV86hRrvcrMzYb3fxsgLq3SebiNb1-lK21a8HjdRtbteQMv0ud3Z6waAimD&pscrd=IhMInZOWzqS7lgMVAIM4CB2-aTPuOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkckVOU3BLRDQ0ZWpzdFdMOG1qelpmWTF3ZXd2OF9ldm5EQllaVXJ2azY0bWRHbDZucjdSeUF6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/609902077/?random=1195780873&cv=11&fst=1787643935683&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=18~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGT9NJcbJdX25xvvdP7O_JaDXaos6RqWmIGoOA95XfXqIOSNdvcRJ1ZOzrvD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkoebm90LW5hdmlnYXRpb24tc291cmNlLCB0cmlnZ2VyWgMKAQFiAwoBAw&cerd=Cgzr370tpqe-LYS-vi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaWMFXPITXjic6ew9NlEcEjC4A6VdVLlUCY&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYV86hRrvcrMzYb3fxsgLq3SebiNb1-lK21a8HjdRtbteQMv0ud3Z6waAimD&pscrd=IhMInZOWzqS7lgMVAIM4CB2-aTPuOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkckVOU3BLRDQ0ZWpzdFdMOG1qelpmWTF3ZXd2OF9ldm5EQllaVXJ2azY0bWRHbDZucjdSeUF6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/609902077/?random=1787643935683&cv=11&fst=1787643935683&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%"
+      },
+      {
+        "body_length": 3572,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=1591379670&cv=11&fst=1787643935701&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=19~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGSVipZLElRY3yP5g-OcFj9lTh6tPaSMTPHGCkZ32o2PpdW9-_wNbouBNk_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSh50cmlnZ2VyLCBub3QtbmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=ChTs370tpqe-LYOwvi2Dvr4t6NW-LQ&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaVGRv288cCmojuIZo0XuwgYEZ-YPJTkQO8&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYVrrEm6goQ3Ru3v5Ubd5DS3DsU3ArQeIb_9qsHk-benfyoz15hUc2caAqYL&pscrd=IhMI-_GWzqS7lgMVduuEAB3mHxioOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcXdoU2h1ODFGUVdNZXBkSWdTaU9mUF82S3ZnZ1lWblMwaFJPS19Kdjd1M1J6ajBQTlU4OVF6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/609902077/?random=1591379670&cv=11&fst=1787643935701&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=19&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=19~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGSVipZLElRY3yP5g-OcFj9lTh6tPaSMTPHGCkZ32o2PpdW9-_wNbouBNk_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSh50cmlnZ2VyLCBub3QtbmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=ChTs370tpqe-LYOwvi2Dvr4t6NW-LQ&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaVGRv288cCmojuIZo0XuwgYEZ-YPJTkQO8&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYVrrEm6goQ3Ru3v5Ubd5DS3DsU3ArQeIb_9qsHk-benfyoz15hUc2caAqYL&pscrd=IhMI-_GWzqS7lgMVduuEAB3mHxioOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcXdoU2h1ODFGUVdNZXBkSWdTaU9mUF82S3ZnZ1lWblMwaFJPS19Kdjd1M1J6ajBQTlU4OVF6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/609902077/?random=1787643935701&cv=11&fst=1787643935701&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385423~120474862&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%"
+      },
+      {
+        "body_length": 3654,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=1133822913&cv=11&fst=1787643935725&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&ref=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=20~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGZXHdWleT76iIQtGF-VYGj0JFT7CwLhLfNQA1eZOucqozmaObN0TdRXcAvD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQII1OaxAgix4bECCLPhsQIIpt2xAgiA27ECCM3hsQJKHnRyaWdnZXIsIG5vdC1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=Chzr370t24m-Laenvi3_r74thL6-LbXRvi2l1b4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaUB1DRSqT0pZjBgTQZ7kX1CaxK8dexDqOY&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYXYgXNWRGnuAF_UwApJCqxT5-sIC8iB5q58RfRkh7bGgBbOFz5YsuMaAunJ&pscrd=IhMIy9-YzqS7lgMVxI04CB0m0AJOOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcTdrTEZYN3hnZEIzcEozeThwRFp2RlJUSWFSb1A4aUEzeFF4SHZQSUVVc3VseGdHaWdlYnd6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/1006316414/?random=1133822913&cv=11&fst=1787643935725&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&ref=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=20~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGZXHdWleT76iIQtGF-VYGj0JFT7CwLhLfNQA1eZOucqozmaObN0TdRXcAvD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQII1OaxAgix4bECCLPhsQIIpt2xAgiA27ECCM3hsQJKHnRyaWdnZXIsIG5vdC1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=Chzr370t24m-Laenvi3_r74thL6-LbXRvi2l1b4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaUB1DRSqT0pZjBgTQZ7kX1CaxK8dexDqOY&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYXYgXNWRGnuAF_UwApJCqxT5-sIC8iB5q58RfRkh7bGgBbOFz5YsuMaAunJ&pscrd=IhMIy9-YzqS7lgMVxI04CB0m0AJOOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcTdrTEZYN3hnZEIzcEozeThwRFp2RlJUSWFSb1A4aUEzeFF4SHZQSUVVc3VseGdHaWdlYnd6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/1006316414/?random=1787643935725&cv=11&fst=1787643935725&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D3233"
+      },
+      {
+        "body_length": 3606,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=364288344&cv=11&fst=1787643935743&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&ref=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=21~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGaJZbbVwqkuwyydWUFu2WZqKT34mmpwQSXo-Guld8YnXaZ_UvuHhtTCgDfD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSh5ub3QtbmF2aWdhdGlvbi1zb3VyY2UsIHRyaWdnZXJaAwoBAWIDCgED&cerd=ChDs370tp6e-LYOwvi2Evr4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaVbiaWoTIegS10tGiCXLW2-G-2EZZBONOA&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYXFBG2aDQSrWN8Qztq_4VTN68hneODIt1SAUs2pxf72VFXhcAlVlEgaApjX&pscrd=IhMI2LqZzqS7lgMVyOOEAB2LaDXhOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkbzg4VXFaMnRfSmVxbnhNT3hOSDBTMEE4T1JESVV6UE1MNkRwcklRa2toRUtqQ3RfZEtmTm96DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/1006316414/?random=364288344&cv=11&fst=1787643935743&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&ref=https%3A%2F%2Fwww.croma.com%2F&rcb=9&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=21~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGaJZbbVwqkuwyydWUFu2WZqKT34mmpwQSXo-Guld8YnXaZ_UvuHhtTCgDfD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSh5ub3QtbmF2aWdhdGlvbi1zb3VyY2UsIHRyaWdnZXJaAwoBAWIDCgED&cerd=ChDs370tp6e-LYOwvi2Evr4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaVbiaWoTIegS10tGiCXLW2-G-2EZZBONOA&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYXFBG2aDQSrWN8Qztq_4VTN68hneODIt1SAUs2pxf72VFXhcAlVlEgaApjX&pscrd=IhMI2LqZzqS7lgMVyOOEAB2LaDXhOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkbzg4VXFaMnRfSmVxbnhNT3hOSDBTMEE4T1JESVV6UE1MNkRwcklRa2toRUtqQ3RfZEtmTm96DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/1006316414/?random=1787643935743&cv=11&fst=1787643935743&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D3233"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://ad.doubleclick.net/activity;src=13135721;type=croma03;cat=croma0;rcb=6;ord=6479903080523;u=%2FsearchB;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2v9190403969z8889407033za20gzb889407033zd889407033xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=0&auid=2031397288.1787643755&dt=Search%20323360%20%7C%20Croma%20Electronics%20%7C%20Online%20Electronics%20Shopping%20%7C%20Buy%20Electronics%20Online&tid=AW-1006316414&en=page_view&dl=https%3A%2F%2Fwww.croma.com%2FsearchB&scrsrc=www.googletagmanager.com&rnd=1754459888.1787643925&navt=n&npa=0&ae=a&gtm=45be68o0h2v888728434za20gzb889407033zd8894070"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://ad.doubleclick.net/activity;dc_pre=CJDN8M2ku5YDFWySYwYdzPMmMA;src=13135721;type=croma03;cat=croma0;rcb=6;ord=6479903080523;u=%2FsearchB;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2v9190403969z8889407033za20gzb889407033zd889407033xea;gcd=13l3l"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "image/gif",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/gmp/conversion/_dc_unique_id=777156551871485939;_dc_ptd=ChEI8Pq01AYQy62f0uiim6nlARIfAGS4-ngHr0eMgNvBRfvQWLPFSdOJPjcAdgUbBUFBVA;_dc_time=1787643935;cid=CAQS4QEAQM4h3I6Ed6bqEzNMba16o6jbuGR7qLxKhCYMkFKwTth0D5-vo4Ntgar1v9CORJm9y4gtdPr2lIWnOePlmq27QnnnO6YBzy6mJK6uqk_CEwE-c02ARO8VfhM0g_3Fs90FVJwDh47Fdi-vdzuzV-FG_RtCugW5H-Vt_X6D-uRu2_W9JEZ4KFleYSlqGn9r-dVzph1wduOauQ5BbmRz0MHNs9mqsK"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/html",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://bom-col.eum-appdynamics.com/eumcollector/beacons/browser/v1/BO-AAB-FBK/adrum"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240za20gzb889407033zd889407033&_p=1787643924452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAGQC&ae=a&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=17&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&_s=6&tag_exp=115938466"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/track"
+      },
+      {
+        "body_length": 19,
+        "body_snippet": "{\"success\":\"Saved\"}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/events/v1"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033&_p=1787643924452&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQC&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=17&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&tag_exp=11593846"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "image/gif;charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://smetrics.croma.com/b/ss/infinitipwa/1/JS-2.25.0-LEWM/s28912236770830"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json;charset=UTF-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaretail.tt.omtrdc.net/rest/v1/delivery?client=cromaretail&sessionId=453409495b924692a837302bce0d331b&version=2.9.0"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://www.croma.com/_bm/get_params?type=web-jsto&v=rFGUjqYhZ287OBdXJGl6viTVC/FdP7H/r4EnvU1hvK0=&j=AAQAAAAG%2f%2f%2f%2f%2f0tl47anY%2fQCwyO2Px87rsfgfUG0Xh6oLPxv5iXizOMDgxJLMBzyCSJupDWMZyLxdcqbc0vHoaKFQjw%2fgKjUsO4hLdsbCFnR1Row"
+      },
+      {
+        "body_length": 11596,
+        "body_snippet": "{\"getApplicablePromotionsForItemResponse\":{\"statusCode\":\"200\",\"offerDetailsList\":[{\"customerActivationRequired\":false,\"offerRedemptionLimit\":10000000,\"offerRedemptionLimitLeft\":9995771,\"offerId\":\"01eae2ec-0576-1000-bbea-86e16dcb4b79:CROMA131753\",\"multimapPromotion\":false,\"status\":[\"ACTIVE\"],\"offerImageUrl\":[\"https://media.tatacroma.com/Croma%20Assets/CMS/Bank%20Offer%20Logo/Offers_logo_Pink_cdfhgx.png\"],\"termsAndConditions\":[\"{link:https://www.croma.com/tc-tata-neu-june-2026}\"],\"offerType\":\"MULTIBUYGROUP\",\"benefitType\":\"CASHBACK\",\"offerTitle\":\"Get up to 5% NeuCoins on select products with the Tata Neu HDFC & Tata Neu SBI Bank Credit Card (5% on Infinity variant and 2% on Plus variant). Offer valid on full‑swipe purchases across all Tata Neu and Croma channels. T&Cs apply\\n\",\"description\":\"Get up to 5% NeuCoins on select products with the Tata Neu HDFC & Tata Neu SBI Bank Credit Card (5% on Infinity variant and 2% on Plus variant). Offer valid on full‑swipe purchases across all Tata Neu and Croma channels. T&Cs apply\\n\",\"offerStartDate\":\"2026-07-03 00:00:00\",\"expiryDate\":\"2026-09-30 23:59:00\",\"offerChannel\":[{\"name\":\"Online\",\"channelIds\":[\"TCPCHS0002\",\"TCPCHS0003\"]}],\"programId\":\"01eae2ec-0576-1000-bbea-86e16dcb4b79\",\"limitedUse\":false,\"payment\":{\"paymentInformation\":{\"paymentMode\":\"CARD\",\"provider\":\"JP_HDFC,JP_SBI\",\"paymentSubType\":\"CREDIT\"},\"paymentThresholdAmount\":0.01},\"allowPrivilegeCustomerSale\":false,\"binApplicablePromotion\":false,\"displayPriority\":800},{\"customerActivationRequired\":false,\"offerRedemptionLimit\":100000,\"offerRedemptionLimitLeft\":99484,\"offerId\":\"01eae2ec-0576-1000-bbea-86e16dcb4b79:CROMA134808\",\"multimapPromotion\":false,\"status\":[\"ACTIVE\"],\"offerImageUrl\":[\"https://media.tatacroma.com/Croma%20Assets/CMS/Bank%20Offer%20Logo/kotakbank_c9vbce.png\"],\"termsAndConditions\":[\"{https://www.croma.com/tc-kotak-bank-aug26}\"],\"offerType\":\"MULTIBUYGROUP\",\"benefitType\":\"CASHBACK\",\"offerTitle\":\"Instant discount of 10% up to Rs.1500 on Kotak Bank Credit card with cart value above Rs. 5000/-. Select offer under view all offer segment on payment page to avail the benefit. T&C Apply.\",\"description\":\"Instant discount of 10% up to Rs.1500 on Kotak Bank Credit card with cart value above Rs. 5000/-. Select offer under view all offer segment on payment page to avail the benefit. T&C Apply.\",\"offerStartDate\":\"2026-08-04 00:00:00\",\"expiryDate\":\"2026-08-31 23:59:00\",\"offerChannel\":[{\"name\":\"Online\",\"channelIds\":[\"TCPCHS0002\",\"TCPCHS0003\"]}],\"programId\":\"01eae2ec-0576-1000-bbea-86e16dcb4b79\",\"limitedUse\":false,\"payment\":{\"paymentThresholdAmount\":5000,\"paymentGroup\":[{\"aggregators\":[{\"aggregatorName\":\"PINELABS_ONLINE\",\"aggregatorId\":520,\"uuid\":\"e4686334-b583-4049-82cd-8ee5741d797a\"}],\"issuers\":[{\"issuerPaymentMode\":\"CARD\",\"issuerProvider\":\"JP_KOTAK\",\"issuerPaymentSubType\":\"CREDIT\",\"cashbackInformation\":{\"paymentInformation\":{\"paymentMode\":\"CARD\",\"provider\":\"JP_KOTAK\",\"paymentSubType\":\"CREDIT\"}},\"uuid\":\"1bcb0dfa-de3e-41d4-a3bd-f20ace659533\"}],\"uuid\":\"9923ddd2-c867-4ea1-b30f-dac52bc7d1e4\"}]},\"allowPrivilegeCustomerSale\":false,\"binApplicablePromotion\":false,\"displayPriority\":1001,\"customField1\":\"JUSPAY\"},{\"customerActivationRequired\":false,\"offerRedemptionLimit\":100000,\"offerRedemptionLimitLeft\":99959,\"offerId\":\"01eae2ec-0576-1000-bbea-86e16dcb4b79:CROMA134811\",\"multimapPromotion\":false,\"status\":[\"ACTIVE\"],\"offerImageUrl\":[\"https://media.tatacroma.com/Croma%20Assets/CMS/Bank%20Offer%20Logo/kotakbank_c9vbce.png\"],\"termsAndConditions\":[\"{link:https://www.croma.com/tc-kotak-bank-aug26}\"],\"offerType\":\"MULTIBUYGROUP\",\"benefitType\":\"EMI\",\"offerTitle\":\"Instant discount of 10% up to Rs 1500 on Kotak Bank Credit Card EMI transaction on selected tenure for cart values above Rs.5000/-. The discounted price, inclusive of cashback, will be applied on the bank payment/OTP page after clicking 'Proceed to pay'. To avail the benefit, select the offer under the 'View all offers' segment on the payment page. T&C apply.\",\"description\":\"Instant discount of 1",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.tatadigital.com/getApplicablePromotion/getApplicationPromotionsForItemOffer"
+      },
+      {
+        "body_length": 54,
+        "body_snippet": "{ \"statusCode\": 404, \"message\": \"Resource not found\" }",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 404,
+        "url": "https://api.tatadigital.com/api/v1.1/msd/data"
+      },
+      {
+        "body_length": 1873,
+        "body_snippet": "{\n  \"promise\": {\n    \"suggestedOption\": {\n      \"option\": {\n        \"promiseLines\": {\n          \"promiseLine\": [\n            {\n              \"sourcingClassification\": \"EC\",\n              \"lineId\": \"1\",\n              \"itemID\": \"323360\",\n              \"requiredQty\": \"1\",\n              \"requiredCapacity\": \"1\",\n              \"externalReferenceId\": \"25365\",\n              \"orderType\": \"normal\",\n              \"unitOfMeasure\": \"EA\",\n              \"carrierServiceCode\": \"Shiprocket - Forward\",\n              \"scac\": \"Shiprocket\",\n              \"zipEnabledInTMS\": true,\n              \"isTmsEnable\": true,\n              \"fulfillmentType\": \"HDEL\",\n              \"assignments\": {\n                \"totalNumberOfRecords\": \"1\",\n                \"assignment\": [\n                  {\n                    \"quantity\": \"1\",\n                    \"shipNode\": \"D023\",\n                    \"lmdFcId\": \"X033\",\n                    \"offset\": \"1200\",\n                    \"deliveryDate\": \"2026-08-26T13:45:50.186+00:00\",\n                    \"zipCode\": \"560087\",\n                    \"productAvailDate\": \"2026-08-25T13:15:50.186\",\n                    \"podIndicator\": \"N\",\n                    \"isTradeinIndicator\": \"N\",\n                    \"deliveryDates\": []\n                  }\n                ]\n              },\n              \"availableDelivery\": [],\n              \"extn\": {\n                \"preOrderItem\": \"\",\n                \"widerStoreFlag\": \"\"\n              }\n            }\n          ]\n        }\n      },\n      \"unavailableLines\": {\n        \"unavailableLine\": [\n          {\n            \"itemID\": \"323360\",\n            \"lineId\": \"2\",\n            \"unavailableReason\": \"SOURCING_RULE_NOT_DEFINED\"\n          },\n          {\n            \"itemID\": \"323360\",\n            \"lineId\": \"3\",\n            \"unavailableReason\": \"SOURCING_RULE_NOT_DEFINED\"\n          }\n        ]\n      }\n    },\n    \"options\": {}\n  }\n}",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/inventory/oms/v2/tms/details-pwa/"
+      },
+      {
+        "body_length": 216,
+        "body_snippet": "{\"pricelist\":[{\"itemId\":\"323360\",\"currencyIso\":\"INR\",\"discountPercentage\":\"22.34%\",\"discountValue\":\"32800.00\",\"mrp\":\"₹146,790.00\",\"mrpValue\":\"146790.00\",\"sellingPrice\":\"₹113,990.00\",\"sellingPriceValue\":\"113990.00\"}]}",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/pricing-services/v2/price/national?itemIds=323360&pincode=560087"
+      },
+      {
+        "body_length": 2,
+        "body_snippet": "[]",
+        "content_type": "",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/sku/v1/essentialcombo?pinCode=560087&ProductSkus=323360"
+      },
+      {
+        "body_length": 75347,
+        "body_snippet": "{\n   \"bankDetails\" : [ {\n      \"bankList\" : [ {\n         \"annualIntRate\" : 15.99,\n         \"bankInterestAmount\" : 3051.0,\n         \"cartAmountTotal\" : 0.0,\n         \"code\" : \"ICICI-03\",\n         \"conditionsCheck\" : false,\n         \"emiPayment\" : \"cromaEMIPaymentMode\",\n         \"emibanklogo\" : {\n            \"altText\" : \"ICICI BANK LOGO\",\n            \"format\" : \"65Wx65H\",\n            \"url\" : \"https://media.tatacroma.com/Croma%20Assets/CMS/ICICI8975192358942.png\"\n         },\n         \"isActive\" : true,\n         \"isNoCostEMISupported\" : false,\n         \"isdebitcardSupported\" : false,\n         \"ispopular\" : false,\n         \"maxInstallVal\" : 0.0,\n         \"minInstallVal\" : 0.0,\n         \"monthlyIntRate\" : 1.0,\n         \"name\" : \"ICICI Bank\",\n         \"payment\" : 39014.0,\n         \"processingFee\" : 0.0,\n         \"productAmount\" : 113990.0,\n         \"ruleBooleanValue\" : false,\n         \"tenure\" : 3.0,\n         \"totalPayment\" : \"117041.0\"\n      }, {\n         \"annualIntRate\" : 15.99,\n         \"bankInterestAmount\" : 5375.0,\n         \"cartAmountTotal\" : 0.0,\n         \"code\" : \"ICICI-06\",\n         \"conditionsCheck\" : false,\n         \"emiPayment\" : \"cromaEMIPaymentMode\",\n         \"emibanklogo\" : {\n            \"altText\" : \"ICICI BANK LOGO\",\n            \"format\" : \"65Wx65H\",\n            \"url\" : \"https://media.tatacroma.com/Croma%20Assets/CMS/ICICI8975192358942.png\"\n         },\n         \"isActive\" : true,\n         \"isNoCostEMISupported\" : false,\n         \"isdebitcardSupported\" : false,\n         \"ispopular\" : false,\n         \"maxInstallVal\" : 0.0,\n         \"minInstallVal\" : 0.0,\n         \"monthlyIntRate\" : 1.0,\n         \"name\" : \"ICICI Bank\",\n         \"payment\" : 19894.0,\n         \"processingFee\" : 0.0,\n         \"productAmount\" : 113990.0,\n         \"ruleBooleanValue\" : false,\n         \"tenure\" : 6.0,\n         \"totalPayment\" : \"119365.0\"\n      }, {\n         \"annualIntRate\" : 15.99,\n         \"bankInterestAmount\" : 7729.0,\n         \"cartAmountTotal\" : 0.0,\n         \"code\" : \"ICICI-09\",\n         \"conditionsCheck\" : false,\n         \"emiPayment\" : \"cromaEMIPaymentMode\",\n         \"emibanklogo\" : {\n            \"altText\" : \"ICICI BANK LOGO\",\n            \"format\" : \"65Wx65H\",\n            \"url\" : \"https://media.tatacroma.com/Croma%20Assets/CMS/ICICI8975192358942.png\"\n         },\n         \"isActive\" : true,\n         \"isNoCostEMISupported\" : false,\n         \"isdebitcardSupported\" : false,\n         \"ispopular\" : false,\n         \"maxInstallVal\" : 0.0,\n         \"minInstallVal\" : 0.0,\n         \"monthlyIntRate\" : 1.0,\n         \"name\" : \"ICICI Bank\",\n         \"payment\" : 13524.0,\n         \"processingFee\" : 0.0,\n         \"productAmount\" : 113990.0,\n         \"ruleBooleanValue\" : false,\n         \"tenure\" : 9.0,\n         \"totalPayment\" : \"121719.0\"\n      }, {\n         \"annualIntRate\" : 15.99,\n         \"bankInterestAmount\" : 10112.0,\n         \"cartAmountTotal\" : 0.0,\n         \"code\" : \"ICICI-12\",\n         \"conditionsCheck\" : false,\n         \"emiPayment\" : \"cromaEMIPaymentMode\",\n         \"emibanklogo\" : {\n            \"altText\" : \"ICICI BANK LOGO\",\n            \"format\" : \"65Wx65H\",\n            \"url\" : \"https://media.tatacroma.com/Croma%20Assets/CMS/ICICI8975192358942.png\"\n         },\n         \"isActive\" : true,\n         \"isNoCostEMISupported\" : false,\n         \"isdebitcardSupported\" : false,\n         \"ispopular\" : false,\n         \"maxInstallVal\" : 0.0,\n         \"minInstallVal\" : 0.0,\n         \"monthlyIntRate\" : 1.0,\n         \"name\" : \"ICICI Bank\",\n         \"payment\" : 10342.0,\n         \"processingFee\" : 0.0,\n         \"productAmount\" : 113990.0,\n         \"ruleBooleanValue\" : false,\n         \"tenure\" : 12.0,\n         \"totalPayment\" : \"124102.0\"\n      }, {\n         \"annualIntRate\" : 15.99,\n         \"bankInterestAmount\" : 14970.0,\n         \"cartAmountTotal\" : 0.0,\n         \"code\" : \"ICICI-18\",\n         \"conditionsCheck\" : false,\n         \"emiPayment\" : \"cromaEMIPaymentMode\",\n         \"emibanklogo\" : {\n            \"altText\" : \"ICICI BANK LOGO\",\n            \"format\" : \"65Wx65",
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/product/allchannels/v1/emidata?fields=FULL&amount=113990.00"
+      },
+      {
+        "body_length": 11002,
+        "body_snippet": "{\"query\":\"*[\\n  _type == \\\"homePageFooterPage\\\" \\u0026\\u0026\\n  uid == $uid\\n][0]{\\n  ...,\\n  contentSlots{\\n    contentSlot[]{\\n      ...,\\n      components{\\n        component[]-\\u003e{\\n          ...\\n        }\\n      }\\n    }\\n  }\\n}\",\"result\":{\"_createdAt\":\"2026-03-31T16:52:09Z\",\"_id\":\"PWAHomePageFooter\",\"_rev\":\"HfhymUJDXQZSCW75nu7Qbe\",\"_type\":\"homePageFooterPage\",\"_updatedAt\":\"2026-06-22T15:07:42Z\",\"contentSlots\":{\"contentSlot\":[{\"_key\":\"75b41342591a\",\"components\":{\"component\":[{\"_createdAt\":\"2026-03-31T16:52:04Z\",\"_id\":\"PWAFooterCategoryComponent\",\"_rev\":\"7PTiuFKp5NOfYngu8aYsKi\",\"_type\":\"categoryNavigationComponent\",\"_updatedAt\":\"2026-03-31T16:52:04Z\",\"container\":false,\"modifiedTime\":\"2020-09-16T02:46:14.888+05:30\",\"name\":\"Products Component\",\"navigationNode\":{\"children\":[],\"entries\":[{\"_key\":\"2cb755757ead\",\"itemId\":\"PWAFooterTelevisionsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Televisions \\u0026 Accessories\",\"url\":\"/televisions-accessories/c/997\"},{\"_key\":\"fff31632f2bd\",\"itemId\":\"PWAFooterHomeAppliancesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Home Appliances\",\"url\":\"/home-appliances/c/5\"},{\"_key\":\"00abe9f7115b\",\"itemId\":\"PWAFooterPhones\\u0026WearablesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Phones \\u0026 Wearables\",\"url\":\"/phones-wearables/c/1\"},{\"_key\":\"de11da86a5e7\",\"itemId\":\"PWAFooterComputers\\u0026TabletsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Computers \\u0026 Tablets\",\"url\":\"/computers-tablets/c/3\"},{\"_key\":\"44633aaf079e\",\"itemId\":\"PWAFooterKitchenAppliancesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Kitchen Appliances\",\"url\":\"/kitchen-appliances/c/864\"},{\"_key\":\"877bcfe0e6c3\",\"itemId\":\"PWAFooterAudio\\u0026VideoLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Audio \\u0026 Video\",\"url\":\"/audio-video/c/292\"},{\"_key\":\"3c19b828cbbc\",\"itemId\":\"pwafooterhealthfitness\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Health \\u0026 Fitness\",\"url\":\"/health-fitness/c/11\"},{\"_key\":\"63b9e88f7c06\",\"itemId\":\"PWAFooterGrooming\\u0026WellnessLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Grooming \\u0026 Personal Care\",\"url\":\"/grooming-wellness/c/1021\"},{\"_key\":\"72f796ec6c0a\",\"itemId\":\"PWAFooterCamerasLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Cameras \\u0026 Accessories\",\"url\":\"/cameras-accessories/c/2\"},{\"_key\":\"9efd3b91b8c0\",\"itemId\":\"pwafootersmartdevices\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Smart Devices\",\"url\":\"/smart-devices/c/3002\"},{\"_key\":\"e417d851317c\",\"itemId\":\"PWAFooterGamingsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Gaming\",\"url\":\"/gaming/c/7\"},{\"_key\":\"31313a6d82fa\",\"itemId\":\"PWAFooterAccessoriesLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Accessories\",\"url\":\"/accessories/c/8\"},{\"_key\":\"4c729e8bc07d\",\"itemId\":\"PWAFooterTopBrandsLink\",\"itemSuperType\":\"AbstractCMSComponent\",\"itemType\":\"CMSLinkComponent\",\"linkName\":\"Top Brands\",\"url\":\"/searchB?q=Top%20Brands%3Arelevance\\u0026text=Top%20Brands\"}],\"name\":\"Products Node\",\"uid\":\"PWAFooterCategoryNode\"},\"onlyOneRestrictionMustApply\":false,\"restricted\":false,\"sealed\":false,\"typeCode\":\"CategoryNavigationComponent\",\"uid\":\"PWAFooterCategoryComponent\",\"visible\":true,\"wrapAfter\":\"10\"}]},\"name\":\"PRODUCTS Slot\",\"position\":\"Products\",\"slotId\":\"ProductsSlot\",\"slotShared\":true},{\"_key\":\"321b578d2f49\",\"components\":{\"component\":[{\"_createdAt\":\"2026-03-31T16:52:05Z\",\"_id\":\"USEFULLINKSNodeComponent\",\"_rev\":\"afUsbq8lhJ8ZcDUbpjTcpU\",\"_system\":{\"base\":{\"id\":\"USEFULLINKSNodeComponent\",\"rev\":\"7PTiuFKp5NOfYngu8aYsKi\"}},\"_type\":\"categoryNavigationComponent\",\"_updatedAt\":\"2026-07-22T08:33:42Z\",\"",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/sanity/v1/cms?query=*%5B%0A++_type+%3D%3D+%22homePageFooterPage%22+%26%26%0A++uid+%3D%3D+%24uid%0A%5D%5B0%5D%7B%0A++...%2C%0A++contentSlots%7B%0A++++contentSlot%5B%5D%7B%0A++++++...%2C%0A++++++components%7B%0A++++++++component%5B%5D-%3E%7B%0A++++++++++...%0A++++++++%7D%0A++++++%7D%0A++++%7D%0A++%7D%0A%7D&%24uid=%22PWAHomePageFooter%22"
+      },
+      {
+        "body_length": 3,
+        "body_snippet": "{}\n",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://edge.fullstory.com/s/settings/11EGJ5/v1/web"
+      },
+      {
+        "body_length": 1555,
+        "body_snippet": "{\"success\":\"Config fetched\",\"config\":{\"_id\":\"646daac343680a50726914ab\",\"urls\":[\"reqbin\",\"transaction\",\"orderConfirmation\",\"order-confirmation\",\"potential-order\"],\"bufferArrayLength\":0,\"bufferIntervalInSeconds\":5,\"bufferSizeInKb\":0,\"dataPublishEndpoint\":\"https://api.tatadigital.com/analytics-engine/events/v1\",\"sessionIdExpiresInS\":86400,\"redirectedFromTCPFlagExpiresInS\":86400,\"redisTtlInSeconds\":2592000,\"createdAt\":\"2023-05-11T08:21:54.108Z\",\"updatedAt\":\"2023-05-11T08:21:54.108Z\",\"__v\":0,\"customerHashValidityInS\":86400,\"keyToCheckLoginState\":[],\"eventToSendConfig\":[],\"recordAnalytics\":true,\"syncTrackingUrls\":[\"/paymentconfirmation\",\"/ocs/v1/order-confirmation\",\"/order/oms/v2/list/details-pwa\",\"/useraccount/allchannels/v1\",\"/floatingcart\",\"/attachProduct\",\"/detail\",\"/addition\",\"/deletion\",\"/inventory/oms/v2/tms/details-pwa/\",\"/inventory/oms/v2/details-pwa/\",\"/price\",\"/user/allchannels/v1\"],\"cartAndWishListConfig\":{\"detail?isGetCart\":{\"products\":[\"entries\"],\"type\":\"cart\",\"keysToCapture\":{\"price\":[\"product\",\"price\",\"value\"],\"productId\":[\"product\",\"code\"],\"productName\":[\"product\",\"name\"],\"quantity\":[\"quantity\"]}}},\"recordGtmEvents\":true,\"dataLayerArgumentEventsToRecord\":[],\"dataLayerObjectEventsToRecord\":[\"add_to_wishlist\",\"add_to_cart\",\"remove_from_cart\",\"begin_checkout\",\"purchase\",\"view_item\",\"add_payment_info\"],\"modifyHistoryOwnMethods\":true,\"recordWebVitals\":false,\"brand\":\"CROMA\",\"browserEventsToRecord\":[\"click\"],\"listenToPastDataLayerEvents\":true,\"recordJsDispatchedClicks\":false,\"clientId\":\"CROMA-WEB-APP\",\"recordNonNeuLed\":true}}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/config/v2"
+      },
+      {
+        "body_length": 19,
+        "body_snippet": "{\"success\":\"Saved\"}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/analytics-engine/events/v1"
+      },
+      {
+        "body_length": 1117,
+        "body_snippet": "{\"source\":{\"id\":\"3EXBaaISlYyCWiaO5RSjg0oXoCf\",\"name\":\"PWA Prod\",\"writeKey\":\"3EXBaeKCEEZnex5iqfnjiXbdbMp\",\"config\":{\"statsCollection\":{\"errors\":{\"enabled\":false},\"metrics\":{\"enabled\":false}}},\"enabled\":true,\"workspaceId\":\"3CWjaFZMP64Vm4Vr3Hp689jgMiQ\",\"destinations\":[{\"id\":\"3Hu0PPHgtjb8lWoj9VfPeMCWU2h\",\"name\":\"MoEngage_prod\",\"enabled\":true,\"config\":{\"apiId\":\"5B2MZV0NAKJC7WR17JOEOLZY\",\"region\":\"IND\",\"debug\":false,\"identityResolution\":false,\"blacklistedEvents\":[],\"whitelistedEvents\":[],\"eventFilteringOption\":\"disable\",\"consentManagement\":[],\"useObjectData\":false},\"destinationDefinitionId\":\"1j9dYVEplxUC5swbXkpK9fYT7u2\",\"destinationDefinition\":{\"name\":\"MOENGAGE\",\"displayName\":\"MoEngage\"},\"updatedAt\":\"2026-08-14T12:13:45.685Z\",\"shouldApplyDeviceModeTransformation\":true,\"propagateEventsUntransformedOnError\":false,\"version\":1}],\"updatedAt\":\"2026-08-07T11:16:49.460Z\",\"dataplanes\":{}},\"updatedAt\":\"2026-08-14T12:13:47.690Z\",\"consentManagementMetadata\":{\"providers\":[{\"provider\":\"oneTrust\",\"resolutionStrategy\":\"and\"},{\"provider\":\"ketch\",\"resolutionStrategy\":\"or\"},{\"provider\":\"iubenda\",\"resolutionStrategy\":\"or\"}]}}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.rudderstack.com/sourceConfig/?p=cdn&v=3.32.0&build=modern&writeKey=3EXBaeKCEEZnex5iqfnjiXbdbMp&lockIntegrationsVersion=true&lockPluginsVersion=true"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&ae=g&auid=2031397288.1787643755&dt=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&en=page_view&dl=https%3A%2F%2Fwww.croma.com%2Flenovo-loq"
+      },
+      {
+        "body_length": 110,
+        "body_snippet": "{\"code\":\"SSO-1101\",\"session\":\"ZN8cVkztCYYKhiDxX5Xgo3afSv9Qm9TXLQRgN9aoyjjdKWwz\",\"message\":\"Session not found\"}",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://api.tatadigital.com/api/v2/sso/check-session"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033&_p=1787643949857&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQC&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=19&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&tag_exp=11561698"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.google.com/measurement/conversion?random=1787643951056&cv=11&tid=G-DJ3RGVFHJN&fst=1787643951056&fmt=8&en=view_item&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gam"
+      },
+      {
+        "body_length": 0,
+        "body_snippet": "",
+        "content_type": "text/plain",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 204,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-DJ3RGVFHJN&gtm=45je68o0h2v893318240z8889407033za20gzb889407033zd889407033&_p=1787643949857&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=IAAAAGQC&_prs=ok&are=1&cid=326713369.1787643756&frm=0&pscdl=noapi&rcb=19&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&_s=2&tag"
+      },
+      {
+        "body_length": 2,
+        "body_snippet": "{}",
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://capi.croma.com/tr?id=1369867960112522&ev=ViewContent&et=1787643950&es=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&referrer=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&eid="
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "text/plain; charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://cromaraghlzckr.dataplane.rudderstack.com/v1/page"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "application/json; charset=utf-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://gumi.criteo.com/sid/json?origin=onetag&domain=croma.com&sn=ChromeSyncframe&so=undefined&topUrl=www.croma.com&bundle=EQnlnV9WSlBIV3BvOVQyMnNVdmt5WjklMkZUWWd5bXAybmwzVFNSMzc3NkhBNE1vY3QwcXdIJTJGR21xWkYlMkYxdjAzYVRNam5qJTJCT2NtbHNuaEg5JTJGcCUyRmZDU0JhWTZrVG5VelZTOXB2MkZ2akpGOTJpRmhNUXFybDR3N1RKRmFTUnlaTTglMkZsNEJhMzZSb0xBbWZCbGp1TE53Tkt6RzJ0QSUzRCUzRA"
+      },
+      {
+        "body_length": null,
+        "body_snippet": null,
+        "content_type": "image/gif;charset=utf-8",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://smetrics.croma.com/b/ss/infinitipwa/1/JS-2.25.0-LEWM/s23099160606906"
+      },
+      {
+        "body_length": 2073,
+        "body_snippet": "{\r\n  \"offerId\": \"01eae2ec-0576-1000-bbea-86e16dcb4b79:CROMA134394\",\r\n  \"offerText\": \"Buy and Get 3% Off (offer auto applied at cart)\",\r\n  \"productId\": \"323360\",\r\n  \"isOfferDetailAvailable\": true,\r\n  \"mtmb\": false,\r\n  \"groupedProductOfferDetails\": {\r\n    \"hasFreebie\": false,\r\n    \"rewardCombinationCode\": \"OR\",\r\n    \"rewardProductsData\": [],\r\n    \"triggerCombinationCode\": \"OR\",\r\n    \"triggerProductsData\": [\r\n      {\r\n        \"code\": \"323360\",\r\n        \"demoFlag\": false,\r\n        \"discount\": 0.0,\r\n        \"expressShippingPincodeAvailability\": false,\r\n        \"finalReviewRating\": 0.0,\r\n        \"homeDeliveryPincodeAvailability\": false,\r\n        \"images\": [\r\n          {\r\n            \"altText\": \"Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG)\",\r\n            \"format\": \"700Wx700H\",\r\n            \"imageType\": \"PRIMARY\",\r\n            \"url\": \"https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323360_0_iAkWiI6pq_.png?updatedAt=1783326349626\"\r\n          }\r\n        ],\r\n        \"isCSCProduct\": false,\r\n        \"isGiftCard\": false,\r\n        \"isPODAvailable\": null,\r\n        \"mrp\": {\r\n          \"currencyIso\": \"INR\",\r\n          \"formattedValue\": \"₹146,790.00\",\r\n          \"value\": \"146790.00\"\r\n        },\r\n        \"name\": \"Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG)\",\r\n        \"price\": {\r\n          \"currencyIso\": \"INR\",\r\n          \"formattedValue\": \"₹113,990.00\",\r\n          \"value\": \"113990.00\"\r\n        },\r\n        \"specialSKU\": false,\r\n        \"storePickPincodeAvailability\": false,\r\n        \"url\": \"/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360\",\r\n        \"wiiFlag\": false\r\n      }\r\n    ]\r\n  }\r\n}",
+        "content_type": "application/json",
+        "method": "POST",
+        "resource_type": "xhr",
+        "status": 200,
+        "url": "https://api.croma.com/offer/allchannels/v2/detail?pincode=560087"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "text/html; charset=UTF-8",
+        "method": "POST",
+        "resource_type": "fetch",
+        "status": 302,
+        "url": "https://ad.doubleclick.net/activity;src=917807264;type=invmedia;cat=croma0;rcb=3;ord=981411659281;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2z8889407033za20gzb889407033zd889407033xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938"
+      },
+      {
+        "body_length": 4342,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=153309465&cv=11&fst=1787643951595&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=6&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=22~4~0~0&gap.last_random=0&gap.last_label=0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGQ-sz9Hf_Ngy8g1qLBpXUebVGLZmk99ZNo-Ux40oQekglH64P3QtWh8xmUDw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkomdHJpZ2dlcjtldmVudC1zb3VyY2U7bmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=Cgzs370tpqe-LYO-vi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaW0ZFABeCnER8WgXUD3EWSe0MLZHzP_7J0&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYUyAwxZkHsfIktOzRjifPXK27PnncAYCx1kTBrjLtvG3jLdLxkvXDkaApTY&pscrd=IhMIh9Hh1aS7lgMVCYM4CB25MwnnOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcVBfdGpQZkJiTlNKSlRPbGloNjVBTkxwbmd4Y1RZcTZZalZLOTRfV1lZTEJ0amdwbC1YU016DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/609902077/?random=153309465&cv=11&fst=1787643951595&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=6&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=22~4~0~0&gap.last_random=0&gap.last_label=0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGQ-sz9Hf_Ngy8g1qLBpXUebVGLZmk99ZNo-Ux40oQekglH64P3QtWh8xmUDw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkomdHJpZ2dlcjtldmVudC1zb3VyY2U7bmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=Cgzs370tpqe-LYO-vi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaW0ZFABeCnER8WgXUD3EWSe0MLZHzP_7J0&",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/609902077/?random=1787643951595&cv=11&fst=1787643951595&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10"
+      },
+      {
+        "body_length": 4428,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/609902077/?random=1464662267&cv=11&fst=1787643951618&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=6&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=23~4~0~0&gap.last_random=1787643951595&gap.last_label=6hOZCKey4boDEP276aIC&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGeIiVxkow4HvLB2Lfzy-2CfhBOB2x0faEF5031M7UvVQQNeYpxljKdfB8fD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjN4bECSiZ0cmlnZ2VyO2V2ZW50LXNvdXJjZTtuYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=ChDr370tpqe-Lf-vvi2Evr4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaVO9e7VRZHmYgnlp0-cD0QAchrZXiHw6r0&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYW7bV0XneABblymX7PlT3J8ywabebicVpNa04TM7hnOkXL2J0iHjFQaAi0O&pscrd=IhMIh6ji1aS7lgMVGeGEAB0rEi0COhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkb0hfUHNZdE5OMDRDa2xTajdicG1aUndUOFFJcWVlVjl2eVFSV21Pa2syVG1FbDBKVUI3UEF6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/609902077/?random=1464662267&cv=11&fst=1787643951618&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=6&label=6hOZCKey4boDEP276aIC&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=23~4~0~0&gap.last_random=1787643951595&gap.last_label=6hOZCKey4boDEP276aIC&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGeIiVxkow4HvLB2Lfzy-2CfhBOB2x0faEF5031M7UvVQQNeYpxljKdfB8fD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjN4bECSiZ0cmlnZ2VyO2V2ZW50LXNvdXJjZTtuYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=ChDr370tpqe-Lf",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/609902077/?random=1787643951618&cv=11&fst=1787643951618&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v9191142305z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10"
+      },
+      {
+        "body_length": 4442,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=2007896324&cv=11&fst=1787643952466&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=3&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=24~4~0~0&gap.last_random=1787643951618&gap.last_label=6hOZCKey4boDEP276aIC&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGZJS2Qk6CZUNkrb5ZvTkkJe85a6D061zHTbUv8D-ypin0ubsgnM0S8JEkPD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSit0cmlnZ2VyO2V2ZW50LXNvdXJjZSwgbm90LW5hdmlnYXRpb24tc291cmNlWgMKAQFiAwoBAw&cerd=ChDr370tpqe-LYOwvi2Dvr4t&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaXi4t9vuTKqJ2V0jQj9TgEkU49wlbCSZQ4&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYVqRVBs4JJtwuYzpfG9A76pqmg6Y-X_oD-gUQHBspNP4iGrQI_en1UaAowE&pscrd=IhMIl82W1qS7lgMV2OeEAB06uzWWOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcC05R3JXR2txTlA1X3c3ZE9rVUZ3bXl6Z2JVcGlSUEJ6QkFiR1ZsMmlYM1g5eGIwd3pPS1F6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/1006316414/?random=2007896324&cv=11&fst=1787643952466&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=3&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=24~4~0~0&gap.last_random=1787643951618&gap.last_label=6hOZCKey4boDEP276aIC&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkQKEQjw-rTUBhDjzoD-9YWT468BEi8AalvnGZJS2Qk6CZUNkrb5ZvTkkJe85a6D061zHTbUv8D-ypin0ubsgnM0S8JEkPD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAgjL4bECSit0cmlnZ2VyO2V2ZW50LXNvdXJjZSwgbm90LW5hdmlnYXRpb24tc291cmNlWgMKAQFiAwoBAw&cerd=",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/1006316414/?random=1787643952466&cv=11&fst=1787643952466&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10"
+      },
+      {
+        "body_length": 4420,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=1859809574&cv=11&fst=1787643952483&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=3&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=25~4~0~0&gap.last_random=1787643952466&gap.last_label=l32ZCPPk06AYEP7W7N8D&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGYm4_wmjmb6qODKgmY5g_pzml-_QbqUubGScM_nEk6OVQAVp4e8-Xkgi0h_w_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkorbm90LW5hdmlnYXRpb24tc291cmNlO2V2ZW50LXNvdXJjZSwgdHJpZ2dlcloDCgEBYgMKAQM&cerd=Cgzs370tp6e-LYO-vi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaWyP98hmnZkJp79Bq86daVJgtI2gf-auEo&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYUg5xj8AMsy6a_9OPegWsSL1Z3dCfUN-gvLC8626yju8cvAAE5LhdgaAjhe&pscrd=IhMI14yX1qS7lgMVS-qEAB1t6AMoOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcFpBMjNqY05nc0FyZWwzdGlyUTFDaE9oTTZsb0ZINkVGaDNsOXB6NDJXMzVZcWh4NEZEaE16DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/1006316414/?random=1859809574&cv=11&fst=1787643952483&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=3&label=l32ZCPPk06AYEP7W7N8D&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=25~4~0~0&gap.last_random=1787643952466&gap.last_label=l32ZCPPk06AYEP7W7N8D&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGYm4_wmjmb6qODKgmY5g_pzml-_QbqUubGScM_nEk6OVQAVp4e8-Xkgi0h_w_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQIIseGxAgiz4bECCKbdsQIIgNuxAkorbm90LW5hdmlnYXRpb24tc291cmNlO2V2ZW50LXNvdXJjZSwgdHJpZ2dlcloDCgEBYgMKAQM&cerd=Cgzs370tp6e-LYO-v",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/1006316414/?random=1787643952483&cv=11&fst=1787643952483&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10"
+      },
+      {
+        "body_length": 4478,
+        "body_snippet": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006316414/?random=1241154562&cv=11&fst=1787643952491&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=3&label=kaIICKmV1KAYEP7W7N8D&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=26~4~0~0&gap.last_random=1787643952483&gap.last_label=l32ZCPPk06AYEP7W7N8D&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGeLfWcQ-BWTJHmDm9xEV4mQiAdiTumeh80C9C4XidTNtWl2LAa_rwQV6ABHw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQII1OaxAgix4bECCLPhsQIIpt2xAgiA27ECSjBub3QtbmF2aWdhdGlvbi1zb3VyY2UsIG5vdC1ldmVudC1zb3VyY2UsIHRyaWdnZXJaAwoBAWIDCgED&cerd=Chjs370t24m-Laenvi2Dvr4ttdG-LaXVvi0&eitems=ChEI8Pq01AYQqMyNyK-R4uquARIdAPRHBaUrOZVO8BYKmy9ODvVT5W3qJrGwfIrHgPU&fsk=ChEI8Pq01AYQmc_87ISuztTcARIsAJMUtYU8cCteHmtF2_bTl8EqPaEKUshttRaybFPhIyevtnYLMQ60dDqmG0UaAkcM&pscrd=IhMI3r6X1qS7lgMVZNeEAB1ohA6lOhZodHRwczovL3d3dy5jcm9tYS5jb20vQldDaEVJOFBxMDFBWVE1T0tVeHJucnZZV19BUklzQUY0S3hkcjNYZUs4NlpIbDdVdWo1ZGtxUVgtT2ZxOUh5R3NpbUlPSm5pVHI3ZHFuUkFOVHRMTlgwVmd6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/1006316414/?random=1241154562&cv=11&fst=1787643952491&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-%2Fp%2F323360&ref=https%3A%2F%2Fwww.croma.com%2FsearchB%3Fq%3D323360%253Arelevance%26text%3D323360&rcb=3&label=kaIICKmV1KAYEP7W7N8D&capi=1&frm=0&tiba=Buy%20Lenovo%20LOQ%2015ARP10E%20AMD%20Ryzen%205%20Gaming%20Laptop%20(16GB%2C%20512GB%20SSD%2C%20Windows%2011%20Home%2C%206GB%20Graphics%2C%2015.6%20Inch%20144%20Hz%20FHD%20IPS%20Display%2C%20NVIDIA%20GeForce%20RTX%203050%2C%20MS%20Office%20Home%202024%2C&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2031397288.1787643755&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oidsrc=3&ecsid2=925521453.1787643756&_tu=CBA&gcl_ctr=26~4~0~0&gap.last_random=1787643952483&gap.last_label=l32ZCPPk06AYEP7W7N8D&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEQjw-rTUBhDjzoD-9YWT468BEjAAalvnGeLfWcQ-BWTJHmDm9xEV4mQiAdiTumeh80C9C4XidTNtWl2LAa_rwQV6ABHw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgiS67ECCMnjsQIIl9SxAgjJ27ECCM3msQII1OaxAgix4bECCLPhsQIIpt2xAgiA27ECSjBub3QtbmF2aWdhdGlvbi1zb3VyY2UsIG5vdC1ldmVudC1zb3VyY2UsIHRya",
+        "content_type": "application/json; charset=UTF-8",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://www.googleadservices.com/pagead/conversion/1006316414/?random=1787643952491&cv=11&fst=1787643952491&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be68o0h2v888728434z8889407033za20gzb889407033zd889407033xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~120213116~120385422&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.croma.com%2Flenovo-loq-15arp10"
+      },
+      {
+        "body_length": null,
+        "body_snippet": "<unavailable>",
+        "content_type": "image/gif",
+        "method": "GET",
+        "resource_type": "fetch",
+        "status": 200,
+        "url": "https://ad.doubleclick.net/activity;dc_pre=CLyJnNaku5YDFW_toAIdmi03BQ;src=917807264;type=invmedia;cat=croma0;rcb=3;ord=981411659281;npa=0;auiddc=2031397288.1787643755;uaa=x86;uab=64;uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe68o0h2z8889407033za20gzb889407033zd889407033xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;"
+      }
+    ],
+    "pdp_url_source": "page.url",
+    "pincode": "560087",
+    "requested_model": "83S000FYIN",
+    "stage": "pdp"
+  },
+  "final_url": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360",
+  "html_length": 707724,
+  "html_sha256": "05c1f7acb8f6db11c7a8b451f1aa2e84e3cfd1a99544ef734969fac8c2189017",
+  "http_status": null,
+  "input_sku": "323360",
+  "notes": [],
+  "page_kind": "PDP",
+  "page_title": "Buy Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG) Online - Croma",
+  "platform": "croma",
+  "requested_url": "https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-5-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-luna-grey-1-8-kg-/p/323360",
+  "results_wait": {
+    "appeared": false,
+    "final_count": 0,
+    "initial_count": 0,
+    "performed": false,
+    "reached_networkidle": false,
+    "waited_ms": 0
+  },
+  "schema_version": "1.1.0",
+  "screenshot_path": "artifacts\\screenshots\\pdp_323360.png",
+  "scroll": {
+    "duration_ms": 13406,
+    "expander_labels": [],
+    "expanders_clicked": 0,
+    "final_height_px": 9600,
+    "height_changed": true,
+    "initial_height_px": 3127,
+    "performed": true,
+    "reached_stable": true,
+    "scroll_count": 8
+  },
+  "status": "SUCCESS",
+  "visible_text": "Menu\nBengaluru,\n \n560087\n0\nComputers & TabletsLaptopsGaming Laptops\nCompare\nConnect to Store\nLenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG)\nBe the First One to Review\n₹113,990.00\n(Incl. all Taxes)\nOR\n₹5,366/mo*\nEMI Options\nMRP: ₹146,790.00\n(Save ₹32,800, 22.34% off)\nWith Exchange\nUnfortunately not available for your location\nWithout Exchange\n\nRAM\n\n16GB\n\nBrand Color\n\nLuna Grey\n\nSSD Capacity\n\n512GB\n\nDisplay Size (In Inches)\n\n15.6\n\nGPU Model\n\nNVIDIA GeForce RTX 3050\nSuper Savings (7 OFFERS)\nMultiple Banks\nGet up to 5% NeuCoins on select products with the Tata Neu HDFC & Tata Neu SBI Bank Credit Card (5% on Infinity variant and 2% on Plus variant). Offer valid on full‑swipe purchases across all Tata Neu and Croma channels. T&Cs apply\nView more\nInstant discount of 10% up to Rs.1500 on Kotak Bank Credit card with cart value above Rs. 5000/-. Select offer under view all offer segment on payment page to avail the benefit. T&C Apply.\nView more\nKotak Mahindra Bank\nInstant discount of 10% up to Rs 1500 on Kotak Bank Credit Card EMI transaction on selected tenure for cart values above Rs.5000/-. The discounted price, inclusive of cashback, will be applied on the bank payment/OTP page after clicking 'Proceed to pay'. To avail the benefit, select the offer under the 'View all offers' segment on the payment page. T&C apply.\nView more\nFederal Bank\nInstant discount of 10% up to Rs 1500 on Federal Bank Credit Card EMI transaction on selected tenure for cart values above Rs.5000/-. The discounted price, inclusive of cashback, will be applied on the bank payment/OTP page after clicking 'Proceed to pay'. To avail the benefit, select the offer under the 'View all offers' segment on the payment page. T&C apply.\nView more\nYes Bank\nInstant discount of 10% up to Rs 1500 on YES Bank Credit Card EMI transaction on tenure of 6 Months & above for cart values above Rs.5000/-. The discounted price, inclusive of cashback, will be applied on the bank payment/OTP page after clicking 'Proceed to pay'. To avail the benefit, select the offer under the 'View all offers' segment on the payment page. T&C apply.\nView more\nMultiple Banks\nNo-Cost EMI upto 6 months tenure on HDFC, ICICI, SBI & AXIS Credit Card only. Select offer under view all offer segment on payment page to avail the benefit. T&C Apply.\nView more\nBuy and Get 3% Off (offer auto applied at cart)\n\nDelivery at:\nBengaluru, 560087\n.\n\nWill be delivered by tomorrow.\n\nKey Features\nDisplay: 39.62 cms (15.6 inches), FHD IPS\nMemory: 16GB DDR5 RAM, 512GB M.2 PCIe NVMe 4.0 SSD ROM\nProcessor: AMD Ryzen 5\nOS: Windows 11 Home\nGraphics: NVIDIA GeForce RTX 3050\nIncluded Software: MS Office Home 2024\nAnti-glare Display, Nahimic Audio, White Backlight Keyboard\nWarranty: 1 year Carry-In\nKeep it safe\nAdd extra protection to your product\nZipCare Protect - Advanced (Extended Warranty)\n\nStarting at just ₹292/month\n\nLearn more\n\nExtends your Device's Life\n\nProtection against sudden malfunctions\n\nGenuine Spare parts\n\nCovers 100% of the repair cost\n\n1 Year\n\n₹5999 or ₹500/month\n\nSelect Plan\nLenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 Inch 144 Hz FHD IPS Display, NVIDIA GeForce RTX 3050, MS Office Home 2024, Luna Grey, 1.8 KG)\n113,990.00\nBuy Now\nAdd to Cart\nSpecifications\nUser Manual\nLAPTOP CATEGORY\nLaptop Type\nGaming Laptop\nSuitable For\nEntertainment | Home | Students | Everyday Use | Work | Gaming | Everyday Use\nMANUFACTURER DETAILS\nBrand\nLenovo\nModel Series\nLOQ 15ARP10E\nModel Number\n83S000FYIN\nPRODUCT DIMENSIONS (OPEN)\nDimensions In CM (WxDxH)\n35.92 x 23.6 x 2.29\nProduct Weight\n1.8 Kg\nDimensions In Inches (WxDxH)\n14.14 x 9.29 x 0.9\nOPERATING SYSTEM\nOS Type\nWindows OS\nOperating System\nWindows 11 Home\nLAPTOP SCREEN SPECIFICATIONS\nDisplay Size (In Inches)\n15.6 Inches\nDisplay Size (In Cms)\n39.62 cm\nDisplay Type\nIPS Screen\nScreen Resolution\n1920 x 1080 pixels\nAspect Ratio\n16:9\nTouch Screen\nNo\nRefresh Rate\n144 Hz\nAdditional Screen Specifications\nAnti-glare, Brightness 300 nits, 100% sRGB, FHD, 88% AAR (Active Area Ratio), Contrast Ratio: 1000:1, Viewing Angle (L/R/U/D): 85 Degree, AMD FreeSync\nLAPTOP PROCESSOR DETAILS\nProcessor Brand\nAMD\nProcessor Type\nRyzen 5\nProcessor Variant\n7535HS\nNumber Of Cores\n6-cores\nProcessor Speed\n3.3 GHz\nMaximum Turbo Speed\n4.5 GHz\nCache\n19 MB\nINTERNAL MEMORY\nType of RAM\nDDR5\nRAM\n16GB\nRAM Frequency\n4800 MHz\nRAM Form Factor\nSO-DIMM\nRAM Configuration\n1 x 16GB\nTotal Number Of Slots\n2 Slots\nNumber of Empty Slots\n1 Slots\nSTORAGE SPECIFICATION\nStorage Type\nM.2 NVMe PCIe 4.0 SSD\nHDD Capacity\nNo HDD\nSSD Capacity\n512GB\nExpandable Upto\n2048 GB\nGRAPHIC PROCESSOR\nGPU Brand\nNVIDIA\nGPU Model\nNVIDIA GeForce RTX 3050\nGraphic Processor Type\nDiscrete\nDedicated Graphics Memory\n6GB\nDedicated Graphics Memory Type\nGDDR6\nSOUND\nAdditional Audio Features\nDual-microphone Array, High Definition (HD) Audio, Realtek ALC3287 Codec\nSpeaker Capacity\n4 Watts\nAudio Technology\nNahimic Audio\nSpeaker Type\nStereo Speakers\nAudio Jack Port\n3.5mm - Headphone/Microphone Combo Port\nPORTS & SLOTS\nUSB Types Supported\nUSB 3.2 | USB 3.2 (Type-C)\nNumber Of USB Ports\n3\nHDMI Type\nHDMI\nNumber Of HDMI Ports\n1\nType of DisplayPort\nDisplayPort\nExternal Card Supported\n3-in-1 Card Reader\nEthernet Supported\nYes\nEthernet Specifications\n100/1000M (RJ-45)\nEthernet Features\nGigabit Ethernet\nAux Port Type\n3.5mm - Headphone/Microphone Combo Port\nNETWORK CONNECTIVITY\nWi-Fi Supported\nYes\nWiFi Specifications\nWi-Fi 6\nWi-Fi Features\n802.11ax, 2x2\nBluetooth Supported\nYes\nBluetooth Specifications\nBluetooth 5.2\nLAPTOP CAMERA TYPE\nCamera Type\nWebcam\nCamera Resolution\n720p\nCamera Features\nCamera Privacy Shutter, Fixed Focus\nKEYBOARD SPECIFICATION\nType of Keyboard\nBacklit Keyboard\nKeyboard Configuration\nWhite Backlight, 6-row, Multimedia Fn Keys, Numeric Keypad, Key Travel 1.3mm, Copilot Key, Integrated Numpad, 0.1mm Dish Caps\nMOUSE SPECIFICATION\nType of Mouse\nTouchpad\nMouse Configuration\nButtonless Mylar Surface Multi-Touch Touchpad, Supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)\nACCESS CONTROL AND SECURITY\nSoftware Locks\nPassword\nLock\nYes\nADDITIONAL FEATURES\nIncluded Software\nMicrosoft Office Home 2024\nAdditional Features\nLenovo Al Engine Plus with Dedicated AI (LA1) Chip, Boost Clock 1492MHz, TGP: 65W, Security Chip: Firmware TPM 2.0 Enabled, DLSS 2, NVIDIA Reflex, DirectX 12 Ultimate, BIOS Security, Chipset: AMD SoC Platform, AI TOPS (Peak): 142 TOPS, AMD Radeon 660M, Surface Treatment: IMR (In-Mold Decoration by Roller), 100mm Fan, 0.15mm Blades\nLAPTOP BATTERY\nBattery Type\nNon-Removable\nBattery Technology\nLithium-Ion\nNumber of Cells\n1 Cell\nStandard Battery Life\n57.5 Watt Hours, MobileMark 30 at 250 nits: 3.5 Hours, Local Video (1080p) Playback at 150 nits: 10.5 Hours\nCHARGING\nFast Charging Capability\nYes\nBattery Charge Time\nCharge Upto 50% in 30 Minutes\nAdditional Charging Features\n1 x DC-IN\nPLUG DETAILS\nPower Consumption\n135 Watts\nVoltage Rating\n100 - 240 V\nPower Pin Type\nSlim Tip (3-Pin)\nFrequency\n50 - 60 Hz\nMATERIALS & DURABILITY\nBody Material\nPolycarbonate | ABS Plastic\nAESTHETICS\nBrand Color\nLuna Grey\nColor\nGREY\nIN THE BOX\nDocuments\n1 x User Guide, 1 x Warranty Card\nMain product\n1 x Laptop U\nAccessories\n1 x Power Adapter\nPackage Includes\n1 x Laptop U, 1 x Power Adapter, 1 x User Guide, 1 x Warranty Card\nGeneric Name\nLaptop\nPACKAGED DIMENSIONS\nAFTER SALES & SERVICES\nWarranty on Main Product\n12 Months\nWarranty Type\nCarry-In\nStandard Warranty Includes\nManufacturing Defects\nStandard Warranty Excludes\nPhysical Damage\nWarranty on Accessories\n12 Months\nInstallation & Demo applicable\nNo\nCERTIFICATION\nROHS Compliance\nYes\nAdditional Certifications\nErP Lot 6/26\nCertification\nYes\nCertifications\nROHS Compliance\nCOMPANY CONTACT INFORMATION\nCustomer Support Number\n18005727662\nCustomer Support Email\ncustomersupport@croma.com\nManufacturer/Importer/Marketer Name & Address\nManufacturer Name & Address: Compal Information Technology (Kunshan) Co., Ltd., No. 58, 1st Street, Kunshan Export Processing Zone, Kunshan, Jiangsu 215300, P.R. China | Importer Name & Address: Lenovo (India) Private Limited, RBD Icon, Level 2, Doddanekundi Village, Marathahalli Outer Ring Road, K.R. Puram Hobli, Bengaluru - 560037, Karnataka, India\nCountry of Origin\nChina\nCountry of Brand Origin\nChina\nCROMA SERVICE PROMISE\nCustomer Support Email\ncustomersupport@croma.com\nRegistered Name and Address\nInfiniti Retail Ltd. - Unit No. 701 & 702, 7th Floor, Kaledonia, Sahar Road, Andheri (East); Mumbai - 400069. India\nCustomer Support Number\n1800 572 7662\nCustomer Care Contact Person\nGrievance Officer\n\n\nView More\nOverview\n\nCapable AMD Ryzen 5 Performance\n\nPowered by the AMD Ryzen 5 processor with 4 cores and 8 threads, this Lenovo 15 15.6-inch Windows Laptop delivers responsive performance for everyday computing and multitasking needs. Consequently, users can work, browse, and manage multiple applications with ease.\n\n\nHigh-Speed 16GB Memory\n\nIncorporating 16GB of LPDDR5-5500 memory, this Windows laptop is designed to support smooth multitasking and efficient application handling. Moreover, switching between tasks remains responsive throughout the day.\n\n\nRapid 512GB SSD Storage\n\nFeaturing a 512GB M.2 PCIe 4.0 NVMe SSD, this laptop offers fast data access and ample space for essential files and applications. Thus, boot times, file transfers, and software loading can be completed more quickly.\n\n\nRefined Full HD Visuals\n\nFeaturing a 15.6-inch Full HD display with a 1920 x 1080 resolution, this Windows laptop provides clear and detailed visuals for daily use. Therefore, documents, videos, and online content appear sharp and easy to view.\n\n\nIntegrated Radeon Graphics\n\nPowered by integrated AMD Radeon 610M Graphics, this 15.6-inch laptop delivers dependable visual performance for everyday productivity and entertainment. Consequently, users can enjoy smooth graphics rendering for routine computing tasks.\n\n\nAnti-Glare Viewing Experience\n\nEquipped with an anti-glare display panel, this laptop helps minimise distracting reflections in brightly lit environments. As a result, users can enjoy more comfortable viewing during extended sessions.\n\n\nImmersive Dolby Audio Sound\n\nEquipped with user-facing stereo speakers optimised with Dolby Audio, this Windows laptop enhances the listening experience with clear and balanced sound output. Furthermore, movies, music, and online meetings benefit from improved audio quality.\n\n\nSecure HD Camera Convenience\n\nFeaturing an HD 720p camera with a privacy shutter, this laptop supports video calls while providing additional privacy when the camera is not in use. Therefore, users can participate in virtual meetings with confidence.\n\n\nPractical Backlit Keyboard Design\n\nIncorporating a backlit keyboard, this Lenovo laptop enables comfortable typing even in dimly lit environments. Additionally, the illuminated keys improve visibility and convenience during late-night work sessions.\n\nView More\nProduct Showcase\nView Less\nReviews\n\nReview this product\n\nHelp other customers make their decision\n\nWrite a Review\nCroma Unboxed\n\nCONNECT WITH US\n\n© Copyright 2026 Croma. All rights reserved\n\nUSEFUL LINKS\n\nAbout Croma\nHelp And Support\nFAQs\nBuying Guide\nReturn Policy\nB2B Orders\nStore Locator\nE-Waste\nFranchise Opportunity\nSite Map\nCareers At Croma\nTerms Of Use\nDisclaimer\nPrivacy Policy\nUnboxed\nGift Card\n\nPRODUCTS\n\nTelevisions & Accessories\nHome Appliances\nPhones & Wearables\nComputers & Tablets\nKitchen Appliances\nAudio & Video\nHealth & Fitness\nGrooming & Personal Care\nCameras & Accessories\nSmart Devices\nGaming\nAccessories\nTop Brands"
+}

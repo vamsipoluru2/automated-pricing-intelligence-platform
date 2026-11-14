@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<!--
+  REGRESSION FIXTURE — reproduces the M1 zero-candidate failure offline.
+
+  Signature of the failure observed on the first live run (2026-08-13):
+      croma_search: status=SUCCESS http=200
+      result_identification: search returned zero candidate results
+
+  Characteristics deliberately encoded here:
+    * HTTP 200, well over the empty-shell size threshold (so status == SUCCESS)
+    * full site chrome (header/nav/footer) — a real, non-blocked page
+    * ZERO anchors matching /p/{digits} — products have not rendered yet
+    * SKU 323360 IS present, but only inside an embedded __NEXT_DATA__ payload
+    * SPA marker present (__NEXT_DATA__, id="root")
+
+  That combination is the fingerprint of capturing before hydration: the data
+  arrived, the links had not been created. It must be diagnosed as a capture-timing
+  defect in our driver, NOT as a Croma block and NOT as an empty result set.
+
+  NOTE: this is a synthesised reproduction of the observed *signature*, not a copy
+  of Croma markup. Replace with a real captured DOM when one is available; the
+  assertions in tests/replay/test_zero_candidate_regression.py should still hold.
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Search Results - Croma</title>
+  <meta name="description" content="Shop electronics online at Croma">
+</head>
+<body>
+  <div id="root">
+    <header class="header-container">
+      <a href="/" class="logo-link">Croma</a>
+      <nav class="nav-menu">
+        <a href="/computers-tablets/laptops/c/20">Laptops</a>
+        <a href="/computers-tablets/laptops/gaming-laptops/c/806">Gaming Laptops</a>
+        <a href="/accessories/computer-and-laptop-accessories/laptop-bags/c/2001">Laptop Bags</a>
+        <a href="/store-locator">Store Locator</a>
+        <a href="/help">Help</a>
+      </nav>
+      <div class="search-wrapper">
+        <input type="text" name="searchText" id="searchInput" placeholder="What are you looking for?" value="323360">
+      </div>
+      <div class="delivery-pincode">
+        <button type="button" class="pincode-trigger">Deliver to 400001</button>
+      </div>
+    </header>
+
+    <main class="plp-container">
+      <div class="plp-header">
+        <h1 class="plp-title">Search Results</h1>
+        <div class="plp-count-placeholder"></div>
+      </div>
+      <!-- Product grid container exists but is EMPTY: not yet hydrated. -->
+      <div class="product-grid" data-testid="plp-product-grid"></div>
+      <div class="plp-skeleton-loader">
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+    </main>
+
+    <footer class="footer-container">
+      <div class="footer-links">
+        <a href="/about-us">About Us</a>
+        <a href="/careers">Careers</a>
+        <a href="/terms-of-use">Terms of Use</a>
+        <a href="/privacy-policy">Privacy Policy</a>
+        <a href="/return-policy">Return Policy</a>
+        <a href="/contact-us">Contact Us</a>
+      </div>
+      <p class="footer-copy">
+        Croma is a consumer electronics retail chain. Shop laptops, mobiles,
+        televisions, home appliances and accessories online with delivery across India.
+        Prices are inclusive of all taxes. Terms and conditions apply to all offers.
+        For assistance with an order please contact customer support.
+      </p>
+      <p class="footer-copy">
+        Popular categories include gaming laptops, thin and light laptops, chromebooks,
+        laptop bags, chargers and adapters, wireless mice and mechanical keyboards.
+        Explore top brands including Lenovo, HP, DELL, ASUS, Acer and Apple.
+      </p>
+      <p class="footer-copy">
+        Delivery timelines vary by pincode and product availability. Installation and
+        demo services are available for selected large appliances and televisions.
+        Exchange offers are subject to device evaluation at the time of pickup.
+      </p>
+    </footer>
+  </div>
+
+  <script id="__NEXT_DATA__" type="application/json">
+  {"props":{"pageProps":{"searchQuery":"323360","resultCount":1,
+   "results":[{"code":"323360","name":"Lenovo LOQ 15ARP10E Gaming Laptop",
+   "mpn":"83S000FYIN","url":"/lenovo-loq-15arp10e-gaming-laptop/p/323360"}]}},
+   "page":"/search","buildId":"abc123"}
+  </script>
+  <script src="/_next/static/chunks/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "croma-intel"
+version = "0.1.0-a1"
+description = "Croma competitive intelligence — product matching and price extraction"
+requires-python = ">=3.10"
+
+# The offline core is deliberately dependency-free so it stays verifiable in an
+# environment with no package installer. Nothing here is needed to run the offline
+# test suite: `python -m tests.run_offline`.
+dependencies = []
+
+[project.optional-dependencies]
+# Required ONLY for the live browser gate.
+#   pip install -e ".[browser]" && playwright install chromium
+browser = ["playwright>=1.40"]
+# Nice-to-have once a network is available; the stdlib runner works without it.
+dev = ["pytest>=7.4", "pytest-asyncio>=0.23", "mypy>=1.8", "ruff>=0.3"]
+
+[project.scripts]
+croma-intel = "croma_intel.cli.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests/unit", "tests/replay"]
+markers = [
+    "live: hits the live Croma site; requires CROMA_LIVE=1 and network. Never in CI.",
+]
+# Live tests are excluded by default; opt in with: pytest tests/integration -m live
+addopts = "-m 'not live'"
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.mypy]
+python_version = "3.10"
+warn_unused_ignores = true
+disallow_untyped_defs = false

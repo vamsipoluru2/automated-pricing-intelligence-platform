@@ -1,0 +1,23 @@
+# Runtime capture artifacts — reproducible, sometimes large, never committed.
+# Exception: fixtures promoted into tests/fixtures/ ARE committed (see M0 §17).
+artifacts/
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.env
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

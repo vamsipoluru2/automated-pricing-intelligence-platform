@@ -1,0 +1,87 @@
+{
+  "block": {
+    "decisive_signal": null,
+    "detail": "",
+    "is_blocked": false,
+    "score": 0.0,
+    "signals": [],
+    "threshold": 1.0
+  },
+  "browser": {
+    "browser_version": "unknown",
+    "driver_version": "1.1.0",
+    "engine": "chromium",
+    "headless": true,
+    "locale": "en-IN",
+    "proxy_used": false,
+    "timezone_id": "Asia/Kolkata",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "viewport_height": 900,
+    "viewport_width": 1440
+  },
+  "capture_id": "9a8c1af889b8dc22e066508f76964d4820bfe89b8f84072970c0260f1fbc64a9",
+  "captured_at": "2026-08-26T20:33:53.250+00:00",
+  "extra": {
+    "card": {
+      "mop": {
+        "amount": "186490",
+        "currency": "INR",
+        "raw": "₹1,86,490"
+      },
+      "mrp": {
+        "amount": "206390",
+        "currency": "INR",
+        "raw": "₹2,06,390"
+      },
+      "pid": "COMHHE2YNEVQVFFS",
+      "position": 4,
+      "price_note": "price/MRP reconciled against stated 9% off",
+      "summary_specs": [
+        "Lenovo Legion 5 2025 AMD Ryzen 7 Octa Core 260 - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...",
+        "AMD Ryzen 7 Octa Core Processor",
+        "16 GB DDR5 RAM",
+        "64 bit Windows 11 Home Operating System",
+        "1 TB SSD",
+        "38.86 cm (15.3 Inch) Display"
+      ],
+      "title": "Lenovo Legion 5 2025 AMD Ryzen 7 Octa Core 260 - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA ...",
+      "url": "https://www.flipkart.com/lenovo-legion-5-2025-amd-ryzen-7-octa-core-260-16-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-5060-165-hz-15ahp10-gaming-laptop/p/itm07fa55fee8239?pid=COMHHE2YNEVQVFFS&lid=LSTCOMHHE2YNEVQVFFS2P9OR9&marketplace=FLIPKART&q=Lenovo+LOQ+15ARP10E+AMD+Ryzen+5+Gaming+Laptop+16GB+512GB+SSD+RTX+3050&store=4rr%2Ftz1&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=71911213-53cd-494b-a965-9bd549ef1776.COMHHE2YNEVQVFFS.SEARCH&ppt=None&ppn=None&ssid=825h1qyd6o0000001787776407917&qH=db95b462bd831a65&ov_redirect=true"
+    },
+    "pid": "COMHHE2YNEVQVFFS",
+    "position": 4,
+    "stage": "flipkart_pdp"
+  },
+  "final_url": "https://www.flipkart.com/lenovo-legion-5-2025-amd-ryzen-7-octa-core-260-16-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-5060-165-hz-15ahp10-gaming-laptop/p/itm07fa55fee8239?pid=COMHHE2YNEVQVFFS&lid=LSTCOMHHE2YNEVQVFFS2P9OR9&marketplace=FLIPKART&q=Lenovo+LOQ+15ARP10E+AMD+Ryzen+5+Gaming+Laptop+16GB+512GB+SSD+RTX+3050&store=4rr%2Ftz1&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=71911213-53cd-494b-a965-9bd549ef1776.COMHHE2YNEVQVFFS.SEARCH&ppt=None&ppn=None&ssid=825h1qyd6o0000001787776407917&qH=db95b462bd831a65&ov_redirect=true",
+  "html_length": 1062017,
+  "html_sha256": "44b96764904d9e254b44fbb3b8c9a236350e22cc09a6ef13f3607db7ffeddecb",
+  "http_status": 200,
+  "input_sku": "323360",
+  "notes": [],
+  "page_kind": "PDP",
+  "page_title": "Lenovo Legion 5 2025 AMD Ryzen 7 Octa Core 260 - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 5060/165 Hz) Legion 5 15AHP10 Gaming Laptop Rs.206390 Price in India - Buy Lenovo Legion 5 2025 AMD Ryzen 7 Octa Core 260 - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 5060/165 Hz) Legion 5 15AHP10 Gaming Laptop Eclipse Black Online - Lenovo : Flipkart.com",
+  "platform": "flipkart",
+  "requested_url": "https://www.flipkart.com/lenovo-legion-5-2025-amd-ryzen-7-octa-core-260-16-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-5060-165-hz-15ahp10-gaming-laptop/p/itm07fa55fee8239?pid=COMHHE2YNEVQVFFS&lid=LSTCOMHHE2YNEVQVFFS2P9OR9&marketplace=FLIPKART&q=Lenovo+LOQ+15ARP10E+AMD+Ryzen+5+Gaming+Laptop+16GB+512GB+SSD+RTX+3050&store=4rr%2Ftz1&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=71911213-53cd-494b-a965-9bd549ef1776.COMHHE2YNEVQVFFS.SEARCH&ppt=None&ppn=None&ssid=825h1qyd6o0000001787776407917&qH=db95b462bd831a65&ov_redirect=true",
+  "results_wait": {
+    "appeared": false,
+    "final_count": 0,
+    "initial_count": 0,
+    "performed": false,
+    "reached_networkidle": false,
+    "waited_ms": 0
+  },
+  "schema_version": "1.1.0",
+  "screenshot_path": null,
+  "scroll": {
+    "duration_ms": 0,
+    "expander_labels": [],
+    "expanders_clicked": 0,
+    "final_height_px": 0,
+    "height_changed": false,
+    "initial_height_px": 0,
+    "performed": false,
+    "reached_stable": false,
+    "scroll_count": 0
+  },
+  "status": "SUCCESS",
+  "visible_text": ""
+}

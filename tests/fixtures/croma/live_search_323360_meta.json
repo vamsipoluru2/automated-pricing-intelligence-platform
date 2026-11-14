@@ -1,0 +1,28 @@
+{
+  "source": "LIVE Croma capture, 2026-08-13",
+  "capture_id": "6f29d0f2a9c2f30f8c6e8cc0bf3b0374320ac7be71764fbfe058410885ab82e1",
+  "requested_url": "https://www.croma.com/search/?text=323360",
+  "final_url": "https://www.croma.com/search/?text=323360",
+  "http_status": 200,
+  "capture_status": "SUCCESS",
+  "page_title": "Search 323360 | Croma Electronics | Online Electronics Shopping | Buy Electronics Online",
+  "html_length": 485676,
+  "visible_text": "Menu\nUpdate pincode for best prices and offers\nAdd Pincode\n0\n\nCONNECT WITH US\n\n\u00a9 Copyright 2026 Croma. All rights reserved\n\nUSEFUL LINKS\n\nAbout Croma\nHelp And Support\nFAQs\nBuying Guide\nReturn Policy\nB2B Orders\nStore Locator\nE-Waste\nFranchise Opportunity\nSite Map\nCareers At Croma\nTerms Of Use\nDisclaimer\nPrivacy Policy\nUnboxed\nGift Card\n\nPRODUCTS\n\nTelevisions & Accessories\nHome Appliances\nPhones & Wearables\nComputers & Tablets\nKitchen Appliances\nAudio & Video\nHealth & Fitness\nGrooming & Personal Care\nCameras & Accessories\nSmart Devices\nGaming\nAccessories\nTop Brands\n\nSELECT YOUR LOCATION\n\nTo Check Products & Delivery Options available at your location\n\nOR\n\nSign in to select address\nContinue",
+  "results_wait": {
+    "performed": true,
+    "appeared": false,
+    "initial_count": 0,
+    "final_count": 0,
+    "reached_networkidle": true,
+    "waited_ms": 20139
+  },
+  "block": {
+    "is_blocked": false,
+    "score": 0.0,
+    "threshold": 1.0,
+    "decisive_signal": null,
+    "signals": [],
+    "detail": "no block signals detected"
+  },
+  "note": "Only successful load of 3 attempts. Runs 2 and 3 returned HTTP 403 Access Denied with an Akamai edgesuite reference -> progressive rate-based bot defense. HTTP 200 with full chrome, zero /p/ links, zero product data, location selector visible."
+}

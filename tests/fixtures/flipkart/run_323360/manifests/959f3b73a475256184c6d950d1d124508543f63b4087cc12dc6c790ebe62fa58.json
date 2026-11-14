@@ -1,0 +1,87 @@
+{
+  "block": {
+    "decisive_signal": null,
+    "detail": "",
+    "is_blocked": false,
+    "score": 0.0,
+    "signals": [],
+    "threshold": 1.0
+  },
+  "browser": {
+    "browser_version": "unknown",
+    "driver_version": "1.1.0",
+    "engine": "chromium",
+    "headless": true,
+    "locale": "en-IN",
+    "proxy_used": false,
+    "timezone_id": "Asia/Kolkata",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "viewport_height": 900,
+    "viewport_width": 1440
+  },
+  "capture_id": "959f3b73a475256184c6d950d1d124508543f63b4087cc12dc6c790ebe62fa58",
+  "captured_at": "2026-08-26T20:33:48.430+00:00",
+  "extra": {
+    "card": {
+      "mop": {
+        "amount": "99990",
+        "currency": "INR",
+        "raw": "₹99,990"
+      },
+      "mrp": {
+        "amount": "155900",
+        "currency": "INR",
+        "raw": "₹1,55,900"
+      },
+      "pid": "COMHKYFSFB9NZDUS",
+      "position": 3,
+      "price_note": "price/MRP reconciled against stated 35% off",
+      "summary_specs": [
+        "Lenovo LQQ Essential AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...",
+        "AMD Ryzen 7 Octa Core Processor",
+        "16 GB DDR5 RAM",
+        "Windows 11 Home Operating System",
+        "512 GB SSD",
+        "39.62 cm (15.6 inch) Display"
+      ],
+      "title": "Lenovo LQQ Essential AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...",
+      "url": "https://www.flipkart.com/lenovo-lqq-essential-amd-ryzen-7-octa-core-7735hs-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-loq-15arp10e-gaming-laptop/p/itm9c22c819b1392?pid=COMHKYFSFB9NZDUS&lid=LSTCOMHKYFSFB9NZDUSVXLI3R&marketplace=FLIPKART&q=Lenovo+LOQ+15ARP10E+AMD+Ryzen+5+Gaming+Laptop+16GB+512GB+SSD+RTX+3050&store=4rr%2Ftz1&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=71911213-53cd-494b-a965-9bd549ef1776.COMHKYFSFB9NZDUS.SEARCH&ppt=None&ppn=None&ssid=825h1qyd6o0000001787776407917&qH=db95b462bd831a65&ov_redirect=true"
+    },
+    "pid": "COMHKYFSFB9NZDUS",
+    "position": 3,
+    "stage": "flipkart_pdp"
+  },
+  "final_url": "https://www.flipkart.com/lenovo-lqq-essential-amd-ryzen-7-octa-core-7735hs-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-loq-15arp10e-gaming-laptop/p/itm9c22c819b1392?pid=COMHKYFSFB9NZDUS&lid=LSTCOMHKYFSFB9NZDUSVXLI3R&marketplace=FLIPKART&q=Lenovo+LOQ+15ARP10E+AMD+Ryzen+5+Gaming+Laptop+16GB+512GB+SSD+RTX+3050&store=4rr%2Ftz1&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=71911213-53cd-494b-a965-9bd549ef1776.COMHKYFSFB9NZDUS.SEARCH&ppt=None&ppn=None&ssid=825h1qyd6o0000001787776407917&qH=db95b462bd831a65&ov_redirect=true",
+  "html_length": 925613,
+  "html_sha256": "8dddf79a6b94a4ee48c3e905ed7b5a8400a9cf0d785ee6872718003d58715238",
+  "http_status": 200,
+  "input_sku": "323360",
+  "notes": [],
+  "page_kind": "PDP",
+  "page_title": "Lenovo LQQ Essential AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3050) LOQ 15ARP10E Gaming Laptop Rs.155900 Price in India - Buy Lenovo LQQ Essential AMD Ryzen 7 Octa Core 7735HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3050) LOQ 15ARP10E Gaming Laptop Luna Grey Online - Lenovo : Flipkart.com",
+  "platform": "flipkart",
+  "requested_url": "https://www.flipkart.com/lenovo-lqq-essential-amd-ryzen-7-octa-core-7735hs-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-loq-15arp10e-gaming-laptop/p/itm9c22c819b1392?pid=COMHKYFSFB9NZDUS&lid=LSTCOMHKYFSFB9NZDUSVXLI3R&marketplace=FLIPKART&q=Lenovo+LOQ+15ARP10E+AMD+Ryzen+5+Gaming+Laptop+16GB+512GB+SSD+RTX+3050&store=4rr%2Ftz1&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=71911213-53cd-494b-a965-9bd549ef1776.COMHKYFSFB9NZDUS.SEARCH&ppt=None&ppn=None&ssid=825h1qyd6o0000001787776407917&qH=db95b462bd831a65&ov_redirect=true",
+  "results_wait": {
+    "appeared": false,
+    "final_count": 0,
+    "initial_count": 0,
+    "performed": false,
+    "reached_networkidle": false,
+    "waited_ms": 0
+  },
+  "schema_version": "1.1.0",
+  "screenshot_path": null,
+  "scroll": {
+    "duration_ms": 0,
+    "expander_labels": [],
+    "expanders_clicked": 0,
+    "final_height_px": 0,
+    "height_changed": false,
+    "initial_height_px": 0,
+    "performed": false,
+    "reached_stable": false,
+    "scroll_count": 0
+  },
+  "status": "SUCCESS",
+  "visible_text": ""
+}

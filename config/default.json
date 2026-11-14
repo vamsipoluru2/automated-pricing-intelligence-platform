@@ -1,0 +1,46 @@
+{
+  "_comment": "M1 configuration. JSON rather than YAML because the dev sandbox cannot install PyYAML; the shape is unchanged and migrates directly. No magic numbers in code \u2014 every tunable lives here.",
+  "browser": {
+    "engine": "chromium",
+    "headless": true,
+    "navigation_timeout_ms": 45000,
+    "default_timeout_ms": 30000,
+    "viewport_width": 1440,
+    "viewport_height": 900,
+    "locale": "en-IN",
+    "timezone_id": "Asia/Kolkata",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "storage_state_path": "artifacts/state/croma_storage_state.json",
+    "persist_storage_state": true,
+    "slow_mo_ms": 0
+  },
+  "scroll": {
+    "max_scrolls": 30,
+    "settle_ms": 350,
+    "stability_checks": 3,
+    "max_duration_ms": 45000,
+    "step": "viewport"
+  },
+  "croma": {
+    "base_url": "https://www.croma.com",
+    "search_path": "/search/?text={query}",
+    "test_pincode": "560087",
+    "attempt_pincode": true,
+    "content_markers": [
+      "croma",
+      "add to cart",
+      "product details",
+      "/p/"
+    ],
+    "max_search_candidates": 40
+  },
+  "storage": {
+    "artifacts_root": "artifacts",
+    "captures_dir": "artifacts/captures",
+    "reports_dir": "artifacts/reports"
+  },
+  "block": {
+    "threshold": 1.0,
+    "empty_shell_min_length": 5000
+  }
+}

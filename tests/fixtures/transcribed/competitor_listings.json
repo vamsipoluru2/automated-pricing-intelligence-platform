@@ -1,0 +1,184 @@
+{
+  "_warning": "TRANSCRIBED FROM M0 RECON — NOT A CAPTURE. See README.md in this directory.",
+  "_transcribed_on": "2026-08-26",
+  "_source_document": "docs/recon/M0_RECON_FINDINGS.md",
+  "_fetched_live_on": "2026-08-13",
+  "listings": [
+    {
+      "id": "vs_83jc00jvin",
+      "provenance": {
+        "m0_section": "§6.2, §6.5, §6.6",
+        "note": "Vijay Sales PDP /p/241406/. Full spec table present in the initial payload; compound rows quoted verbatim.",
+        "evidence_kind": "transcribed"
+      },
+      "platform": "vijay_sales",
+      "source_url": "https://www.vijaysales.com/p/241406/lenovo-loq-15arp9-83jc00jvin",
+      "position": 1,
+      "query": "83JC00JVIN",
+      "title": "Lenovo LOQ 15ARP9 Gaming Laptop (AMD Ryzen 7/ 24GB RAM/ 512GB SSD/ Windows 11) 83JC00JVIN",
+      "model_number": "83JC00JVIN",
+      "model_series": "LOQ 15ARP9",
+      "platform_product_id": "241406",
+      "url_derived_id": "241406",
+      "category_path": ["Home", "Computers and Laptops", "Laptops", "Gaming Laptops"],
+      "compound_rows": {
+        "Processor": "AMD Ryzen 7 7435HS (8C/16T, 3.1/4.5GHz, 4MB L2/16MB L3)",
+        "Graphics": "NVIDIA GeForce RTX 3050A 4GB GDDR6",
+        "Display": "15.6\" FHD (1920x1080) IPS, 300nits, 144Hz, G-SYNC",
+        "RAM": "24GB SO-DIMM DDR5-4800",
+        "Storage": "512GB SSD M.2 PCIe 4.0x4 NVMe",
+        "OS": "Windows 11 Home"
+      },
+      "mop": "71990.00",
+      "mrp": "104690.00",
+      "model_availability": "ALWAYS"
+    },
+    {
+      "id": "vs_83dv018qin_display_unit",
+      "provenance": {
+        "m0_section": "§6.4 (F7)",
+        "note": "Vijay Sales /p/243423/. Title prefix confirmed as the H1, not a badge, by an explicit re-fetch. The silent-wrong hazard this fixture exists to test.",
+        "evidence_kind": "transcribed"
+      },
+      "platform": "vijay_sales",
+      "source_url": "https://www.vijaysales.com/p/243423/lenovo-loq-15-83dv018qin",
+      "position": 1,
+      "query": "83DV018QIN",
+      "title": "Store Display Unit - Lenovo LOQ 15 Gaming Laptop (13th Gen Intel Core i5/ 24GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) Full HD Display/ 6GB-NVIDIA GeForce RTX 4050 Graphics/ Windows 11/ MS-Office) 83DV018QIN",
+      "model_number": "83DV018QIN",
+      "model_series": "LOQ 15",
+      "platform_product_id": "243423",
+      "url_derived_id": "243423",
+      "category_path": ["Home", "Computers and Laptops", "Laptops", "Gaming Laptops"],
+      "compound_rows": {
+        "Processor": "Intel Core i5-13450HX",
+        "Graphics": "NVIDIA GeForce RTX 4050 6GB",
+        "Display": "15.6 Inch (39.6 cm) Full HD",
+        "RAM": "24GB",
+        "Storage": "512GB SSD",
+        "OS": "Windows 11"
+      },
+      "mop": "88990.00",
+      "mrp": "127000.00",
+      "model_availability": "ALWAYS"
+    },
+    {
+      "id": "vs_230914_redirect",
+      "provenance": {
+        "m0_section": "§6.3 (F10)",
+        "note": "Requesting product 230914 served SKU 243423 / model 83DV018QIN — a different product. url_derived_id and platform_product_id deliberately disagree.",
+        "evidence_kind": "transcribed"
+      },
+      "platform": "vijay_sales",
+      "source_url": "https://www.vijaysales.com/p/230914/lenovo-loq-15arp9-83jc0045in",
+      "position": 1,
+      "query": "83JC0045IN",
+      "title": "Lenovo LOQ 15 Gaming Laptop 83DV018QIN",
+      "model_number": "83DV018QIN",
+      "model_series": "LOQ 15",
+      "platform_product_id": "243423",
+      "url_derived_id": "230914",
+      "category_path": ["Home", "Computers and Laptops", "Laptops", "Gaming Laptops"],
+      "compound_rows": {},
+      "mop": "88990.00",
+      "mrp": "127000.00",
+      "model_availability": "ALWAYS"
+    },
+    {
+      "id": "rd_83dv00l9in",
+      "provenance": {
+        "m0_section": "§5.4",
+        "note": "Reliance Digital search-result title, quoted verbatim. MTM appears mid-title, after the series code. PDP body was an empty SPA shell (F3), so only the title is available.",
+        "evidence_kind": "transcribed"
+      },
+      "platform": "reliance_digital",
+      "source_url": "https://www.reliancedigital.in/product/lenovo-loq-15irx9-83dv00l9in-m2bsdc-8674264",
+      "position": 1,
+      "query": "83DV00L9IN",
+      "title": "Buy Lenovo LOQ 15IRX9 83DV00L9IN Gaming Laptop (Intel Core i5-13450HX/24 GB/512 GB SSD/RTX 4050 6GB/Windows 11/MSOffice/Full HD), 39.62 cm - 15.6 inch, Luna Grey at Reliance Digital",
+      "model_number": "83DV00L9IN",
+      "model_series": "LOQ 15IRX9",
+      "platform_product_id": "8674264",
+      "url_derived_id": "8674264",
+      "category_path": [],
+      "compound_rows": {},
+      "mop": null,
+      "mrp": null,
+      "model_availability": "ALWAYS"
+    },
+    {
+      "id": "rd_83jc0045in",
+      "provenance": {
+        "m0_section": "§5.4, §15.1 case A",
+        "note": "The one confirmed cross-platform exact-model pair: 83JC0045IN appears identically on Reliance Digital and Vijay Sales.",
+        "evidence_kind": "transcribed"
+      },
+      "platform": "reliance_digital",
+      "source_url": "https://www.reliancedigital.in/product/lenovo-loq-15arp9-83jc0045in-m2bsdc-8674266",
+      "position": 2,
+      "query": "83JC0045IN",
+      "title": "Buy Lenovo LOQ 15ARP9 83JC0045IN Gaming Laptop at Reliance Digital",
+      "model_number": "83JC0045IN",
+      "model_series": "LOQ 15ARP9",
+      "platform_product_id": "8674266",
+      "url_derived_id": "8674266",
+      "category_path": [],
+      "compound_rows": {},
+      "mop": null,
+      "mrp": null,
+      "model_availability": "ALWAYS"
+    },
+    {
+      "id": "fk_15arp9_no_mtm",
+      "provenance": {
+        "m0_section": "§3.3, §3.4 (F1), §3.6",
+        "note": "Flipkart PDP title quoted verbatim. Carries the series code 15ARP9 and NO MTM — confirmed by an explicit targeted probe. Specs listed are the summary set from the initial payload; the full table was not retrieved (Q3 open).",
+        "evidence_kind": "transcribed"
+      },
+      "platform": "flipkart",
+      "source_url": "https://www.flipkart.com/lenovo-loq-.../p/itme3c655ce4e3c8?pid=COMHFYZ36W8ZGS8Z",
+      "position": 1,
+      "query": "Lenovo LOQ 15ARP9 Ryzen 7 24GB 512GB RTX 4050",
+      "query_strategy": "Q4_brand_series_specs",
+      "title": "Lenovo LOQ AMD Ryzen 7 Octa Core 7435HS - (24 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050/144 Hz/115 W) 15ARP9 Gaming Laptop",
+      "model_number": null,
+      "model_series": "15ARP9",
+      "platform_product_id": "COMHFYZ36W8ZGS8Z",
+      "url_derived_id": "COMHFYZ36W8ZGS8Z",
+      "category_path": ["Home", "Computers", "Laptops", "Lenovo Laptops"],
+      "compound_rows": {
+        "Processor": "AMD Ryzen 7 Octa Core 7435HS",
+        "RAM": "24 GB",
+        "Storage": "512 GB SSD",
+        "Graphics": "NVIDIA GeForce RTX 4050 6 GB",
+        "Display": "15.6 inch 144 Hz",
+        "OS": "Windows 11 Home"
+      },
+      "mop": "108990.00",
+      "mrp": null,
+      "model_availability": "NEVER"
+    },
+    {
+      "id": "fk_accessory_sleeve",
+      "provenance": {
+        "m0_section": "§12.2",
+        "note": "Flipkart accessory result carrying a Lenovo accessory model code (T210) and the laptop's size token. Four of the first fifteen results carried T210.",
+        "evidence_kind": "transcribed"
+      },
+      "platform": "flipkart",
+      "source_url": "https://www.flipkart.com/casebo-15-6-toploder-t210/p/itmaccessory1",
+      "position": 3,
+      "query": "Lenovo LOQ 15ARP9",
+      "title": "CASE_BO 15.6 Toploder T210 black-row Laptop Sleeve/Cover",
+      "model_number": null,
+      "model_series": null,
+      "platform_product_id": "ACCESSORY1",
+      "url_derived_id": "ACCESSORY1",
+      "category_path": ["Home", "Computers", "Laptop Accessories", "Laptop Sleeves"],
+      "compound_rows": {},
+      "mop": "526.00",
+      "mrp": null,
+      "model_availability": "NEVER"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop 16GB 512GB SSD RTX 3050",
+  "search": "f6d5bdb29eccf2170ff818d5ec95d06bf89a97759284f43ec85b518a97aad737",
+  "pdps": [
+    {
+      "capture_id": "9589fca7f1c6cde9ee59d0d31b2ce9113cf88a87cae286866cce389697e8e480",
+      "pid": "COMHNDGUAUBQJMKW",
+      "position": 1
+    },
+    {
+      "capture_id": "3d4233696a0cc5b095dabe95f47047d5d21d9002b8e9907e898491ef73a731a0",
+      "pid": "COMHNDGUAUBQJMKW",
+      "position": 2
+    },
+    {
+      "capture_id": "959f3b73a475256184c6d950d1d124508543f63b4087cc12dc6c790ebe62fa58",
+      "pid": "COMHKYFSFB9NZDUS",
+      "position": 3
+    },
+    {
+      "capture_id": "9a8c1af889b8dc22e066508f76964d4820bfe89b8f84072970c0260f1fbc64a9",
+      "pid": "COMHHE2YNEVQVFFS",
+      "position": 4
+    }
+  ]
+}
